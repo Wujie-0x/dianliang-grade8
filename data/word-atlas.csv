@@ -1,0 +1,598 @@
+id,word,ipa_uk,ipa_us,cefr,topic,meanings_zh,example1_en,example1_zh
+sour,sour,/saʊər/,/saʊər/,A1,travel,n. 酸味 | adj. 酸的 | vt. 使变酸,I learned the word “sour” today.,我今天学会了单词“sour”（酸味）。
+cloud,cloud,/klaʊd/,/klaʊd/,A1,travel,n. 云 | vt. 使混乱 | vi. 阴沉,I learned the word “cloud” today.,我今天学会了单词“cloud”（云）。
+circle,circle,/ˈsərkəl/,/ˈsərkəl/,A1,thinking,n. 循环，周期 | vt. 画圆圈 | vi. 盘旋，旋转,I learned the word “circle” today.,我今天学会了单词“circle”（循环，周期）。
+month,month,/mənθ/,/mənθ/,A1,travel,n. 月，一个月的时间,I learned the word “month” today.,我今天学会了单词“month”（月，一个月的时间）。
+bit,bit,/bɪt/,/bɪt/,A1,thinking,n. 比特（二进位制信息单位） | adj. 很小的 | vt. 咬（bite的过去式和过去分词）,I learned the word “bit” today.,我今天学会了单词“bit”（比特（二进位制信息单位））。
+bright,bright,/braɪt/,/braɪt/,A1,education,n. 车头灯光 | adj. 明亮的，鲜明的 | adv. 明亮地,I learned the word “bright” today.,我今天学会了单词“bright”（车头灯光）。
+wake,wake,/weɪk/,/weɪk/,A1,thinking,n. 尾迹 | vt. 叫醒 | vi. 醒来,I learned the word “wake” today.,我今天学会了单词“wake”（尾迹）。
+hero,hero,/ˈhɪroʊ/,/ˈhɪroʊ/,A1,thinking,n. 英雄,I learned the word “hero” today.,我今天学会了单词“hero”（英雄）。
+broken,broken,/ˈbroʊkən/,/ˈbroʊkən/,A1,society,v. 折断 | adj. 破碎的,I learned the word “broken” today.,我今天学会了单词“broken”（折断）。
+wild,wild,/waɪld/,/waɪld/,A1,nature,n. 荒野 | adj. 野生的 | adv. 疯狂地,I learned the word “wild” today.,我今天学会了单词“wild”（荒野）。
+hole,hole,/hoʊl/,/hoʊl/,A1,society,n. 洞，孔 | vt. 凿洞 | vi. 凿洞，穿孔,I learned the word “hole” today.,我今天学会了单词“hole”（洞，孔）。
+solar,solar,/ˈsoʊlər/,/ˈsoʊlər/,A1,society,n. 日光浴室 | adj. 太阳的,I learned the word “solar” today.,我今天学会了单词“solar”（日光浴室）。
+proud,proud,/praʊd/,/praʊd/,A1,daily,adj. 自豪的,I learned the word “proud” today.,我今天学会了单词“proud”（自豪的）。
+yet,yet,/jɛt/,/jɛt/,A1,education,conj. 但是 | adv. 还,I learned the word “yet” today.,我今天学会了单词“yet”（但是）。
+refuse,refuse,/ˈrɛfˌjuz/,/ˈrɛfˌjuz/,A1,education,n. 垃圾 | vi. 拒绝 | vt. 拒绝,I learned the word “refuse” today.,我今天学会了单词“refuse”（垃圾）。
+risk,risk,/rɪsk/,/rɪsk/,A1,education,n. 风险 | vt. 冒…的危险,I learned the word “risk” today.,我今天学会了单词“risk”（风险）。
+keep,keep,/kip/,/kip/,A1,travel,vt. 保持 | vi. 保持 | n. 保持,I learned the word “keep” today.,我今天学会了单词“keep”（保持）。
+taken,taken,/ˈteɪkən/,/ˈteɪkən/,A1,thinking,v. 拿，带（take的过去分词）,I learned the word “taken” today.,我今天学会了单词“taken”（拿，带（take的过去分）。
+might,might,/maɪt/,/maɪt/,A1,education,n. 力量 | v. 可以 | aux. 可能,I learned the word “might” today.,我今天学会了单词“might”（力量）。
+latest,latest,/ˈleɪtəst/,/ˈleɪtəst/,A1,education,adv. 最迟地 | n. 最新的事物 | adj. 最新的，最近的,I learned the word “latest” today.,我今天学会了单词“latest”（最迟地）。
+snake,snake,/sneɪk/,/sneɪk/,A1,thinking,n. 蛇 | vt. 拉（木材等） | vi. 迂回前进,I learned the word “snake” today.,我今天学会了单词“snake”（蛇）。
+rainy,rainy,/ˈreɪni/,/ˈreɪni/,A1,education,adj. 下雨的,I learned the word “rainy” today.,我今天学会了单词“rainy”（下雨的）。
+smart,smart,/smɑrt/,/smɑrt/,A1,arts,adj. 聪明的,I learned the word “smart” today.,我今天学会了单词“smart”（聪明的）。
+afford,afford,/əˈfɔrd/,/əˈfɔrd/,A1,thinking,vt. 给予，提供,I learned the word “afford” today.,我今天学会了单词“afford”（给予，提供）。
+side,side,/saɪd/,/saɪd/,A1,nature,n. 方面 | adj. 旁的，侧的 | vt. 同意，支持,I learned the word “side” today.,我今天学会了单词“side”（方面）。
+pretty,pretty,/ˈprɪti/,/ˈprɪti/,A1,daily,n. 有吸引力的事物（尤指饰品） | adj. 漂亮的 | adv. 相当地,I learned the word “pretty” today.,我今天学会了单词“pretty”（有吸引力的事物（尤指饰品）。
+clear,clear,/klɪr/,/klɪr/,A1,thinking,n. 清除 | adj. 清楚的 | vt. 通过,I learned the word “clear” today.,我今天学会了单词“clear”（清除）。
+glass,glass,/glæs/,/glæs/,A1,travel,n. 玻璃 | vt. 反映 | vi. 成玻璃状,I learned the word “glass” today.,我今天学会了单词“glass”（玻璃）。
+fair,fair,/fɛr/,/fɛr/,A1,nature,n. 展览会 | adj. 公平的 | vi. 转晴,I learned the word “fair” today.,我今天学会了单词“fair”（展览会）。
+letter,letter,/ˈlɛtər/,/ˈlɛtər/,A1,education,n. 信 | vt. 写字母于 | vi. 写印刷体字母,I learned the word “letter” today.,我今天学会了单词“letter”（信）。
+pet,pet,/pɛt/,/pɛt/,A1,society,n. 宠物 | adj. 宠爱的 | vt. 宠爱,I learned the word “pet” today.,我今天学会了单词“pet”（宠物）。
+fought,fought,/fɔt/,/fɔt/,A1,travel,v. 战斗（fight的过去分词）,I learned the word “fought” today.,我今天学会了单词“fought”（战斗（fight的过去分）。
+cough,cough,/kɔf/,/kɔf/,A1,travel,n. 咳嗽，咳嗽声 | vt. 咳出 | vi. 咳嗽,I learned the word “cough” today.,我今天学会了单词“cough”（咳嗽，咳嗽声）。
+advise,advise,/ədˈvaɪz/,/ədˈvaɪz/,A1,travel,vt. 建议 | vi. 建议,I learned the word “advise” today.,我今天学会了单词“advise”（建议）。
+jeans,jeans,/ʤinz/,/ʤinz/,A1,daily,n. 牛仔裤,I learned the word “jeans” today.,我今天学会了单词“jeans”（牛仔裤）。
+model,model,/ˈmɑdəl/,/ˈmɑdəl/,A1,travel,n. 模型 | vt. 模拟 | vi. 做模型,I learned the word “model” today.,我今天学会了单词“model”（模型）。
+weak,weak,/wik/,/wik/,A1,travel,adj. 疲软的,I learned the word “weak” today.,我今天学会了单词“weak”（疲软的）。
+invent,invent,/ˌɪnˈvɛnt/,/ˌɪnˈvɛnt/,A1,daily,vt. 发明,I learned the word “invent” today.,我今天学会了单词“invent”（发明）。
+weigh,weigh,/weɪ/,/weɪ/,A1,thinking,n. 权衡 | vt. 权衡 | vi. 重量为…,I learned the word “weigh” today.,我今天学会了单词“weigh”（权衡）。
+pizza,pizza,/ˈpitsə/,/ˈpitsə/,A1,education,n. 比萨饼（一种涂有乳酪核番茄酱的意大利式有馅烘饼）,I learned the word “pizza” today.,我今天学会了单词“pizza”（比萨饼（一种涂有乳酪核番）。
+treat,treat,/trit/,/trit/,A1,thinking,n. 请客 | vi. 探讨 | vt. 治疗,I learned the word “treat” today.,我今天学会了单词“treat”（请客）。
+pupil,pupil,/ˈpjupəl/,/ˈpjupəl/,A1,travel,n. 学生,I learned the word “pupil” today.,我今天学会了单词“pupil”（学生）。
+pair,pair,/pɛr/,/pɛr/,A1,travel,n. 一对，一双，一副 | vt. 把…组成一对,I learned the word “pair” today.,我今天学会了单词“pair”（一对，一双，一副）。
+last,last,/læst/,/læst/,A1,daily,n. 末尾，最后 | adj. 最后的 | vi. 持续,I learned the word “last” today.,我今天学会了单词“last”（末尾，最后）。
+plenty,plenty,/ˈplɛnti/,/ˈplɛnti/,A1,education,n. 丰富，大量 | adj. 足够的，很多的 | adv. 足够,I learned the word “plenty” today.,我今天学会了单词“plenty”（丰富，大量）。
+danger,danger,/ˈdeɪnʤər/,/ˈdeɪnʤər/,A1,society,n. 危险,I learned the word “danger” today.,我今天学会了单词“danger”（危险）。
+france,France,/fræns/,/fræns/,A1,thinking,n. 法国,I learned the word “France” today.,我今天学会了单词“France”（法国）。
+lonely,lonely,/ˈloʊnli/,/ˈloʊnli/,A1,society,adj. 寂寞的 | n. 孤独者,I learned the word “lonely” today.,我今天学会了单词“lonely”（寂寞的）。
+pity,pity,/ˈpɪti/,/ˈpɪti/,A1,thinking,n. 怜悯，同情 | vt. 对……表示怜悯,I learned the word “pity” today.,我今天学会了单词“pity”（怜悯，同情）。
+taste,taste,/teɪst/,/teɪst/,A1,daily,n. 味道 | vt. 尝 | vi. 尝起来,I learned the word “taste” today.,我今天学会了单词“taste”（味道）。
+sent,sent,/sɛnt/,/sɛnt/,A1,daily,v. 送，寄出（send的过去分词）,I learned the word “sent” today.,我今天学会了单词“sent”（送，寄出（send的过去）。
+fan,fan,/fæn/,/fæn/,A1,sport,n. 迷 | vt. 煽动 | vi. 成扇形散开,I learned the word “fan” today.,我今天学会了单词“fan”（迷）。
+active,active,/ˈæktɪv/,/ˈæktɪv/,A1,daily,n. 主动语态 | adj. 积极的,I learned the word “active” today.,我今天学会了单词“active”（主动语态）。
+boring,boring,/ˈbɔrɪŋ/,/ˈbɔrɪŋ/,A1,thinking,n. 钻孔 | adj. 无聊的 | v. 钻孔,I learned the word “boring” today.,我今天学会了单词“boring”（钻孔）。
+field,field,/fild/,/fild/,A1,nature,n. 领域 | adj. 扫描场 | vt. 把暴晒于场上,I learned the word “field” today.,我今天学会了单词“field”（领域）。
+since,since,/sɪns/,/sɪns/,A1,society,conj. 因为 | prep. 自…以来 | adv. 后来,I learned the word “since” today.,我今天学会了单词“since”（因为）。
+calm,calm,/kɑm/,/kɑm/,A1,travel,n. 风平浪静 | adj. 静的，平静的 | vt. 使平静,I learned the word “calm” today.,我今天学会了单词“calm”（风平浪静）。
+daily,daily,/ˈdeɪli/,/ˈdeɪli/,A1,thinking,n. 日报 | adj. 日常的 | adv. 日常地,I learned the word “daily” today.,我今天学会了单词“daily”（日报）。
+north,north,/nɔrθ/,/nɔrθ/,A1,nature,（暂无释义）,I learned the word “north” today.,我今天学会了单词“north”（（暂无释义））。
+path,path,/pæθ/,/pæθ/,A1,travel,n. 道路,I learned the word “path” today.,我今天学会了单词“path”（道路）。
+system,system,/ˈsɪstəm/,/ˈsɪstəm/,A1,daily,n. 制度，体制,I learned the word “system” today.,我今天学会了单词“system”（制度，体制）。
+window,window,/ˈwɪndoʊ/,/ˈwɪndoʊ/,A1,education,n. 窗,I learned the word “window” today.,我今天学会了单词“window”（窗）。
+try,try,/traɪ/,/traɪ/,A1,nature,n. 尝试 | vt. 试图，努力 | vi. 尝试,I learned the word “try” today.,我今天学会了单词“try”（尝试）。
+crazy,crazy,/ˈkreɪzi/,/ˈkreɪzi/,A1,education,adj. 疯狂的,I learned the word “crazy” today.,我今天学会了单词“crazy”（疯狂的）。
+that,that,/ðət/,/ðət/,A1,thinking,conj. 因为 | adj. 那 | pron. 那,I learned the word “that” today.,我今天学会了单词“that”（因为）。
+coin,coin,/kɔɪn/,/kɔɪn/,A1,society,n. 硬币，钱币 | vt. 铸造（货币）,I learned the word “coin” today.,我今天学会了单词“coin”（硬币，钱币）。
+skill,skill,/skɪl/,/skɪl/,A1,health,n. 技能，技巧,I learned the word “skill” today.,我今天学会了单词“skill”（技能，技巧）。
+depend,depend,/dɪˈpɛnd/,/dɪˈpɛnd/,A1,daily,vi. 依赖，依靠,I learned the word “depend” today.,我今天学会了单词“depend”（依赖，依靠）。
+joke,joke,/ʤoʊk/,/ʤoʊk/,A1,nature,n. 玩笑，笑话 | vt. 开…的玩笑 | vi. 开玩笑,I learned the word “joke” today.,我今天学会了单词“joke”（玩笑，笑话）。
+guest,guest,/gɛst/,/gɛst/,A1,travel,n. 客人，宾客 | adj. 客人的 | vt. 款待，招待,I learned the word “guest” today.,我今天学会了单词“guest”（客人，宾客）。
+enter,enter,/ˈɛnər/,/ˈɛnər/,A1,nature,n. 输入 | vt. 进入 | vi. 参加，登场,I learned the word “enter” today.,我今天学会了单词“enter”（输入）。
+low,low,/loʊ/,/loʊ/,A1,society,adj. 低的，浅的 | adv. 低声地 | n. 低,I learned the word “low” today.,我今天学会了单词“low”（低的，浅的）。
+awful,awful,/ˈɔfəl/,/ˈɔfəl/,A1,travel,adj. 可怕的,I learned the word “awful” today.,我今天学会了单词“awful”（可怕的）。
+move,move,/muv/,/muv/,A1,daily,n. 移动 | vi. 移动 | vt. 移动,I learned the word “move” today.,我今天学会了单词“move”（移动）。
+result,result,/rɪˈzəlt/,/rɪˈzəlt/,A1,society,n. 结果 | vi. 结果,I learned the word “result” today.,我今天学会了单词“result”（结果）。
+send,send,/sɛnd/,/sɛnd/,A1,thinking,n. 上升运动 | vi. 派人 | vt. 发送，寄,I learned the word “send” today.,我今天学会了单词“send”（上升运动）。
+mix,mix,/mɪks/,/mɪks/,A1,society,vt. 配制 | vi. 参与 | n. 混合,I learned the word “mix” today.,我今天学会了单词“mix”（配制）。
+list,list,/lɪst/,/lɪst/,A1,education,n. 列表 | vi. 列于表上 | vt. 列出,I learned the word “list” today.,我今天学会了单词“list”（列表）。
+stay,stay,/steɪ/,/steɪ/,A1,travel,n. 逗留 | vi. 停留 | vt. 坚持,I learned the word “stay” today.,我今天学会了单词“stay”（逗留）。
+fridge,fridge,/frɪʤ/,/frɪʤ/,A1,society,n. 电冰箱,I learned the word “fridge” today.,我今天学会了单词“fridge”（电冰箱）。
+notes,notes,/noʊts/,/noʊts/,A1,thinking,n. 注释，说明，笔记（note复数）,I learned the word “notes” today.,我今天学会了单词“notes”（注释，说明，笔记（not）。
+news,news,/nuz/,/nuz/,A1,society,n. 新闻，消息,I learned the word “news” today.,我今天学会了单词“news”（新闻，消息）。
+word,word,/wərd/,/wərd/,A1,education,n. 单词 | vt. 用言辞表达,I learned the word “word” today.,我今天学会了单词“word”（单词）。
+land,land,/lænd/,/lænd/,A1,daily,n. 国土 | vt. 使…登陆 | vi. 登陆,I learned the word “land” today.,我今天学会了单词“land”（国土）。
+glad,glad,/glæd/,/glæd/,A1,society,adj. 高兴的 | vt. 使高兴,I learned the word “glad” today.,我今天学会了单词“glad”（高兴的）。
+deep,deep,/dip/,/dip/,A1,daily,n. 深处 | adj. 深的 | adv. 深入地,I learned the word “deep” today.,我今天学会了单词“deep”（深处）。
+waste,waste,/weɪst/,/weɪst/,A1,environment,n. 浪费 | adj. 废弃的 | vt. 浪费,I learned the word “waste” today.,我今天学会了单词“waste”（浪费）。
+around,around,/əraʊnd/,/əraʊnd/,A1,daily,prep. 四处 | adv. 大约,I learned the word “around” today.,我今天学会了单词“around”（四处）。
+queen,queen,/kwin/,/kwin/,A1,education,n. 女王，王后 | vt. 使…成为女王或王后 | vi. 做女王,I learned the word “queen” today.,我今天学会了单词“queen”（女王，王后）。
+smell,smell,/smɛl/,/smɛl/,A1,travel,n. 气味，嗅觉 | vt. 嗅，闻 | vi. 嗅，闻,I learned the word “smell” today.,我今天学会了单词“smell”（气味，嗅觉）。
+wide,wide,/waɪd/,/waɪd/,A1,education,n. 大千世界 | adj. 广泛的 | adv. 广泛地,I learned the word “wide” today.,我今天学会了单词“wide”（大千世界）。
+cold,cold,/koʊld/,/koʊld/,A1,education,n. 寒冷 | adj. 寒冷的 | adv. 完全地,I learned the word “cold” today.,我今天学会了单词“cold”（寒冷）。
+fell,fell,/fɛl/,/fɛl/,A1,daily,n. 一季所伐的木材 | v. 掉下 | adj. 凶猛的,I learned the word “fell” today.,我今天学会了单词“fell”（一季所伐的木材）。
+for,for,/fər/,/fər/,A1,education,prep. 为，为了 | conj. 因为,I learned the word “for” today.,我今天学会了单词“for”（为，为了）。
+earth,earth,/ərθ/,/ərθ/,A1,nature,n. 地球 | vt. 把（电线） 接地 | vi. 躲进地洞,I learned the word “earth” today.,我今天学会了单词“earth”（地球）。
+pain,pain,/peɪn/,/peɪn/,A1,health,n. 疼痛 | vt. 使…痛苦 | vi. 感到疼痛,I learned the word “pain” today.,我今天学会了单词“pain”（疼痛）。
+mile,mile,/maɪl/,/maɪl/,A1,education,n. 英里,I learned the word “mile” today.,我今天学会了单词“mile”（英里）。
+windy,windy,/ˈwɪndi/,/ˈwɪndi/,A1,travel,adj. 多风的，有风的,I learned the word “windy” today.,我今天学会了单词“windy”（多风的，有风的）。
+moon,moon,/mun/,/mun/,A1,nature,n. 月亮 | vi. 闲荡 | vt. 虚度,I learned the word “moon” today.,我今天学会了单词“moon”（月亮）。
+beat,beat,/bit/,/bit/,A1,education,n. 拍子 | adj. 筋疲力尽的 | vt. 打,I learned the word “beat” today.,我今天学会了单词“beat”（拍子）。
+king,king,/kɪŋ/,/kɪŋ/,A1,history,n. 国王 | vi. 统治 | vt. 立…为王,I learned the word “king” today.,我今天学会了单词“king”（国王）。
+road,road,/roʊd/,/roʊd/,A1,city,n. 公路，马路 | adj. （美）巡回的 | vt. （狗）沿臭迹追逐（猎物）,I learned the word “road” today.,我今天学会了单词“road”（公路，马路）。
+smelt,smelt,/smɛlt/,/smɛlt/,A1,travel,n. 香鱼 | vt. 熔炼，冶炼 | vi. 熔炼，精炼,I learned the word “smelt” today.,我今天学会了单词“smelt”（香鱼）。
+warn,warn,/wɔrn/,/wɔrn/,A1,society,vt. 警告，提醒 | vi. 发出警告，发出预告,I learned the word “warn” today.,我今天学会了单词“warn”（警告，提醒）。
+worse,worse,/wərs/,/wərs/,A1,nature,n. 更坏的事 | adj. 更坏的 | adv. 更糟,I learned the word “worse” today.,我今天学会了单词“worse”（更坏的事）。
+shape,shape,/ʃeɪp/,/ʃeɪp/,A1,society,n. 形状 | vt. 形成 | vi. 形成,I learned the word “shape” today.,我今天学会了单词“shape”（形状）。
+snowy,snowy,/snoʊi/,/snoʊi/,A1,education,adj. 下雪的，多雪的,I learned the word “snowy” today.,我今天学会了单词“snowy”（下雪的，多雪的）。
+fight,fight,/faɪt/,/faɪt/,A1,society,n. 打架 | vi. 打架,I learned the word “fight” today.,我今天学会了单词“fight”（打架）。
+ugly,ugly,/ˈəgli/,/ˈəgli/,A1,society,adj. 丑陋的,I learned the word “ugly” today.,我今天学会了单词“ugly”（丑陋的）。
+take,take,/teɪk/,/teɪk/,A1,nature,vi. 拿 | vt. 拿，取 | n. 捕获量,I learned the word “take” today.,我今天学会了单词“take”（拿）。
+hobby,hobby,/ˈhɑbi/,/ˈhɑbi/,A1,travel,n. 嗜好,I learned the word “hobby” today.,我今天学会了单词“hobby”（嗜好）。
+tower,tower,/taʊər/,/taʊər/,A1,daily,n. 塔 | vi. 高耸,I learned the word “tower” today.,我今天学会了单词“tower”（塔）。
+artist,artist,/ˈɑrtɪst/,/ˈɑrtɪst/,A1,arts,n. 艺术家,I learned the word “artist” today.,我今天学会了单词“artist”（艺术家）。
+ever,ever,/ˈɛvər/,/ˈɛvər/,A1,education,adv. 永远,I learned the word “ever” today.,我今天学会了单词“ever”（永远）。
+must,must,/məst/,/məst/,A1,education,aux. 必须，一定 | n. 绝对必要的事物,I learned the word “must” today.,我今天学会了单词“must”（必须，一定）。
+sky,sky,/skaɪ/,/skaɪ/,A1,society,n. 天空 | vt. 把…投向空中 | vi. 踢或击高空球,I learned the word “sky” today.,我今天学会了单词“sky”（天空）。
+about,about,/əˈbaʊt/,/əˈbaʊt/,A1,society,prep. 关于 | n. 大致 | adj. 在附近的,I learned the word “about” today.,我今天学会了单词“about”（关于）。
+quiet,quiet,/kwaɪət/,/kwaɪət/,A1,travel,n. 安静 | adj. 安静的 | vt. 使平息,I learned the word “quiet” today.,我今天学会了单词“quiet”（安静）。
+minus,minus,/ˈmaɪnəs/,/ˈmaɪnəs/,A1,travel,prep. 减，减去 | n. 负号，减号 | adj. 减的,I learned the word “minus” today.,我今天学会了单词“minus”（减，减去）。
+cookie,cookie,/ˈkʊki/,/ˈkʊki/,A1,thinking,n. 饼干,I learned the word “cookie” today.,我今天学会了单词“cookie”（饼干）。
+pocket,pocket,/ˈpɑkət/,/ˈpɑkət/,A1,daily,n. 口袋 | adj. 小型的，袖珍的 | vt. 隐藏,I learned the word “pocket” today.,我今天学会了单词“pocket”（口袋）。
+cloudy,cloudy,/ˈklaʊdi/,/ˈklaʊdi/,A1,society,adj. 多云的,I learned the word “cloudy” today.,我今天学会了单词“cloudy”（多云的）。
+total,total,/ˈtoʊtəl/,/ˈtoʊtəl/,A1,daily,n. 总数，合计 | adj. 全部的 | vt. 总数达,I learned the word “total” today.,我今天学会了单词“total”（总数，合计）。
+fifth,fifth,/fɪθ/,/fɪθ/,A1,daily,num. 第五 | n. 第五 | adj. 第五的,I learned the word “fifth” today.,我今天学会了单词“fifth”（第五）。
+forgot,forgot,/fərˈgɑt/,/fərˈgɑt/,A1,daily,v. 忘记,I learned the word “forgot” today.,我今天学会了单词“forgot”（忘记）。
+hill,hill,/hɪl/,/hɪl/,A1,health,n. 小山,I learned the word “hill” today.,我今天学会了单词“hill”（小山）。
+sound,sound,/saʊnd/,/saʊnd/,A1,daily,n. 声音，语音 | adj. 健全的，健康的 | vt. 听（诊）,I learned the word “sound” today.,我今天学会了单词“sound”（声音，语音）。
+dream,dream,/drim/,/drim/,A1,nature,n. 梦想，愿望 | adj. 梦的 | vt. 梦想,I learned the word “dream” today.,我今天学会了单词“dream”（梦想，愿望）。
+stairs,stairs,/stɛrz/,/stɛrz/,A1,nature,n. 楼梯,I learned the word “stairs” today.,我今天学会了单词“stairs”（楼梯）。
+accept,accept,/əkˈsɛpt/,/əkˈsɛpt/,A1,travel,vi. 承认 | vt. 接受,I learned the word “accept” today.,我今天学会了单词“accept”（承认）。
+basic,basic,/ˈbeɪsɪk/,/ˈbeɪsɪk/,A1,thinking,n. 基础 | adj. 基本的,I learned the word “basic” today.,我今天学会了单词“basic”（基础）。
+public,public,/ˈpəblɪk/,/ˈpəblɪk/,A1,daily,n. 公众 | adj. 公众的,I learned the word “public” today.,我今天学会了单词“public”（公众）。
+choice,choice,/ʧɔɪs/,/ʧɔɪs/,A1,education,n. 选择 | adj. 精选的,I learned the word “choice” today.,我今天学会了单词“choice”（选择）。
+group,group,/grup/,/grup/,A1,nature,n. 组 | adj. 群的 | vt. 把…聚集,I learned the word “group” today.,我今天学会了单词“group”（组）。
+allow,allow,/əˈlaʊ/,/əˈlaʊ/,A1,travel,vi. 容许 | vt. 允许,I learned the word “allow” today.,我今天学会了单词“allow”（容许）。
+member,member,/ˈmɛmbər/,/ˈmɛmbər/,A1,thinking,n. 成员,I learned the word “member” today.,我今天学会了单词“member”（成员）。
+while,while,/waɪl/,/waɪl/,A1,travel,conj. 虽然 | n. 一会儿 | vt. 消磨,I learned the word “while” today.,我今天学会了单词“while”（虽然）。
+raise,raise,/reɪz/,/reɪz/,A1,education,n. 高地 | vt. 提高 | vi. 上升,I learned the word “raise” today.,我今天学会了单词“raise”（高地）。
+set,set,/sɛt/,/sɛt/,A1,nature,"n. 集合 | adj. 固定的 | vi. (日,月)落沉",I learned the word “set” today.,我今天学会了单词“set”（集合）。
+feed,feed,/fid/,/fid/,A1,daily,n. 饲料 | vt. 喂养 | vi. 吃东西,I learned the word “feed” today.,我今天学会了单词“feed”（饲料）。
+regret,regret,/rɪˈgrɛt/,/rɪˈgrɛt/,A1,nature,n. 遗憾 | vi. 感到后悔 | vt. 后悔,I learned the word “regret” today.,我今天学会了单词“regret”（遗憾）。
+heaven,heaven,/ˈhɛvən/,/ˈhɛvən/,A1,thinking,n. 天堂,I learned the word “heaven” today.,我今天学会了单词“heaven”（天堂）。
+except,except,/ɪkˈsɛpt/,/ɪkˈsɛpt/,A1,thinking,conj. 除了 | prep. 除…之外 | vt. 不计,I learned the word “except” today.,我今天学会了单词“except”（除了）。
+aid,aid,/eɪd/,/eɪd/,A1,society,n. 援助 | vt. 援助 | vi. 帮助,I learned the word “aid” today.,我今天学会了单词“aid”（援助）。
+area,area,/ˈɛriə/,/ˈɛriə/,A1,society,n. 区域，地区,I learned the word “area” today.,我今天学会了单词“area”（区域，地区）。
+bite,bite,/baɪt/,/baɪt/,A1,travel,n. 咬 | abbr. 机内测试设备（Built-In Test Equipment） | vt. 咬,I learned the word “bite” today.,我今天学会了单词“bite”（咬）。
+led,led,/lɛd/,/lɛd/,A1,thinking,abbr. 发光二极管（light-emitting diode）,I learned the word “led” today.,我今天学会了单词“led”（发光二极管（light-）。
+storm,storm,/stɔrm/,/stɔrm/,A1,nature,n. 暴风雨 | vt. 猛攻 | vi. 起风暴,I learned the word “storm” today.,我今天学会了单词“storm”（暴风雨）。
+name,name,/neɪm/,/neɪm/,A1,travel,n. 名称，名字 | vt. 命名，任命 | adj. 姓名的,I learned the word “name” today.,我今天学会了单词“name”（名称，名字）。
+dollar,dollar,/ˈdɔlər/,/ˈdɔlər/,A1,nature,n. 美元,I learned the word “dollar” today.,我今天学会了单词“dollar”（美元）。
+thin,thin,/θɪn/,/θɪn/,A1,society,n. 细小部分 | adj. 薄的 | vt. 使瘦,I learned the word “thin” today.,我今天学会了单词“thin”（细小部分）。
+baby,baby,/ˈbeɪbi/,/ˈbeɪbi/,A1,society,n. 婴儿，婴孩 | adj. 婴儿的 | vt. 纵容，娇纵,I learned the word “baby” today.,我今天学会了单词“baby”（婴儿，婴孩）。
+rabbit,rabbit,/ˈræbɪt/,/ˈræbɪt/,A1,nature,n. 兔子，野兔 | vt. 让…见鬼去吧 | vi. 猎兔,I learned the word “rabbit” today.,我今天学会了单词“rabbit”（兔子，野兔）。
+sleepy,sleepy,/sˈlipi/,/sˈlipi/,A1,thinking,adj. 欲睡的,I learned the word “sleepy” today.,我今天学会了单词“sleepy”（欲睡的）。
+then,then,/ðɛn/,/ðɛn/,A1,education,conj. 然后，当时 | n. 那时 | adv. 然后,I learned the word “then” today.,我今天学会了单词“then”（然后，当时）。
+far,far,/fɑr/,/fɑr/,A1,thinking,n. 远方 | adj. 远的 | adv. 很,I learned the word “far” today.,我今天学会了单词“far”（远方）。
+time,time,/taɪm/,/taɪm/,A1,travel,n. 时间 | adj. 定时的 | vt. 计时,I learned the word “time” today.,我今天学会了单词“time”（时间）。
+skate,skate,/skeɪt/,/skeɪt/,A1,society,n. 溜冰 | vi. 滑冰,I learned the word “skate” today.,我今天学会了单词“skate”（溜冰）。
+none,none,/nən/,/nən/,A1,nature,pron. 没有人 | adj. 没有的，一点没有的 | adv. 决不，一点也不,I learned the word “none” today.,我今天学会了单词“none”（没有人）。
+seem,seem,/sim/,/sim/,A1,nature,vi. 似乎,I learned the word “seem” today.,我今天学会了单词“seem”（似乎）。
+shelf,shelf,/ʃɛlf/,/ʃɛlf/,A1,travel,n. 架子,I learned the word “shelf” today.,我今天学会了单词“shelf”（架子）。
+score,score,/skɔr/,/skɔr/,A1,education,n. 分数 | vt. 获得 | vi. 得分,I learned the word “score” today.,我今天学会了单词“score”（分数）。
+act,act,/ækt/,/ækt/,A1,society,n. 行为，行动 | vt. 扮演 | vi. 行动,I learned the word “act” today.,我今天学会了单词“act”（行为，行动）。
+get,get,/gɪt/,/gɪt/,A1,thinking,n. 生殖 | vi. 成为 | vt. 使得,I learned the word “get” today.,我今天学会了单词“get”（生殖）。
+degree,degree,/dɪˈgri/,/dɪˈgri/,A1,thinking,n. 程度，等级,I learned the word “degree” today.,我今天学会了单词“degree”（程度，等级）。
+end,end,/ɛnd/,/ɛnd/,A1,nature,n. 结束 | vi. 结束，终止 | vt. 结束，终止,I learned the word “end” today.,我今天学会了单词“end”（结束）。
+fill,fill,/fɪl/,/fɪl/,A1,health,n. 满足 | vt. 装满，使充满 | vi. 被充满，膨胀,I learned the word “fill” today.,我今天学会了单词“fill”（满足）。
+wish,wish,/wɪʃ/,/wɪʃ/,A1,society,n. 希望 | vt. 祝愿 | vi. 愿望,I learned the word “wish” today.,我今天学会了单词“wish”（希望）。
+island,island,/ˈaɪlənd/,/ˈaɪlənd/,A1,education,n. 岛 | adj. 岛的 | vt. 孤立,I learned the word “island” today.,我今天学会了单词“island”（岛）。
+south,south,/saʊθ/,/saʊθ/,A1,thinking,n. 南方，南边 | adj. 南的，南方的 | adv. 在南方，向南方,I learned the word “south” today.,我今天学会了单词“south”（南方，南边）。
+hurt,hurt,/hərt/,/hərt/,A1,health,n. 痛苦 | vt. 使受伤 | adj. 受伤的,I learned the word “hurt” today.,我今天学会了单词“hurt”（痛苦）。
+shower,shower,/ʃaʊər/,/ʃaʊər/,A1,nature,n. 淋浴 | vt. 大量地给予 | vi. 淋浴,I learned the word “shower” today.,我今天学会了单词“shower”（淋浴）。
+advice,advice,/ədˈvaɪs/,/ədˈvaɪs/,A1,travel,n. 建议,I learned the word “advice” today.,我今天学会了单词“advice”（建议）。
+symbol,symbol,/ˈsɪmbəl/,/ˈsɪmbəl/,A1,nature,n. 象征,I learned the word “symbol” today.,我今天学会了单词“symbol”（象征）。
+health,health,/hɛlθ/,/hɛlθ/,A1,health,n. 健康,I learned the word “health” today.,我今天学会了单词“health”（健康）。
+cool,cool,/kul/,/kul/,A1,daily,n. 凉爽 | adj. 凉爽的 | vt. 使…冷却,I learned the word “cool” today.,我今天学会了单词“cool”（凉爽）。
+prefer,prefer,/prɪˈfər/,/prɪˈfər/,A1,education,vt. 更喜欢 | vi. 喜欢,I learned the word “prefer” today.,我今天学会了单词“prefer”（更喜欢）。
+cost,cost,/kɔst/,/kɔst/,A1,education,n. 费用，代价，成本 | vt. 花费 | vi. 花费,I learned the word “cost” today.,我今天学会了单词“cost”（费用，代价，成本）。
+matter,matter,/ˈmætər/,/ˈmætər/,A1,health,n. 物质 | vi. 有关系,I learned the word “matter” today.,我今天学会了单词“matter”（物质）。
+lead,lead,/lɛd/,/lɛd/,A1,nature,n. 领导 | vt. 领导 | vi. 领导,I learned the word “lead” today.,我今天学会了单词“lead”（领导）。
+enough,enough,/ɪˈnəf/,/ɪˈnəf/,A1,travel,n. 很多 | adj. 充足的 | adv. 足够地，充足地,I learned the word “enough” today.,我今天学会了单词“enough”（很多）。
+fed,fed,/fɛd/,/fɛd/,A1,travel,abbr. 联邦储备局（the Federal Reserve System）,I learned the word “fed” today.,我今天学会了单词“fed”（联邦储备局（the Fe）。
+threw,threw,/θru/,/θru/,A1,thinking,v. 抛（throw的过去式）,I learned the word “threw” today.,我今天学会了单词“threw”（抛（throw的过去式））。
+thick,thick,/θɪk/,/θɪk/,A1,education,n. 最拥挤部分 | adj. 厚的 | adv. 密集地,I learned the word “thick” today.,我今天学会了单词“thick”（最拥挤部分）。
+with,with,/wɪθ/,/wɪθ/,A1,education,prep. 用,I learned the word “with” today.,我今天学会了单词“with”（用）。
+chess,chess,/ʧɛs/,/ʧɛs/,A1,nature,n. 国际象棋，西洋棋,I learned the word “chess” today.,我今天学会了单词“chess”（国际象棋，西洋棋）。
+appear,appear,/əˈpɪr/,/əˈpɪr/,A1,daily,vi. 出现,I learned the word “appear” today.,我今天学会了单词“appear”（出现）。
+onto,onto,/ˈɔntu/,/ˈɔntu/,A1,thinking,prep. 在…之上 | adj. 映射的,I learned the word “onto” today.,我今天学会了单词“onto”（在…之上）。
+prize,prize,/praɪz/,/praɪz/,A1,travel,n. 奖品 | adj. 获奖的 | vt. 珍视,I learned the word “prize” today.,我今天学会了单词“prize”（奖品）。
+local,local,/ˈloʊkəl/,/ˈloʊkəl/,A1,society,n. 局部 | adj. 当地的,I learned the word “local” today.,我今天学会了单词“local”（局部）。
+hide,hide,/haɪd/,/haɪd/,A1,nature,n. 躲藏 | vt. 隐藏 | vi. 隐藏,I learned the word “hide” today.,我今天学会了单词“hide”（躲藏）。
+noise,noise,/nɔɪz/,/nɔɪz/,A1,society,n. 噪音 | vt. 谣传 | vi. 发出声音,I learned the word “noise” today.,我今天学会了单词“noise”（噪音）。
+stick,stick,/stɪk/,/stɪk/,A1,daily,n. 棍 | vi. 坚持 | vt. 刺，戳,I learned the word “stick” today.,我今天学会了单词“stick”（棍）。
+common,common,/ˈkɑmən/,/ˈkɑmən/,A1,nature,n. 普通 | adj. 共同的,I learned the word “common” today.,我今天学会了单词“common”（普通）。
+train,train,/treɪn/,/treɪn/,A1,travel,n. 火车 | v. 培养,I learned the word “train” today.,我今天学会了单词“train”（火车）。
+if,if,/ɪf/,/ɪf/,A1,travel,conj. （表条件）如果 | n. 条件,I learned the word “if” today.,我今天学会了单词“if”（（表条件）如果）。
+offer,offer,/ˈɔfər/,/ˈɔfər/,A1,nature,vt. 提供 | n. 提议 | vi. 提议,I learned the word “offer” today.,我今天学会了单词“offer”（提供）。
+studio,studio,/ˈstudiˌoʊ/,/ˈstudiˌoʊ/,A1,nature,n. 工作室,I learned the word “studio” today.,我今天学会了单词“studio”（工作室）。
+create,create,/kriˈeɪt/,/kriˈeɪt/,A1,daily,vt. 创造，创作,I learned the word “create” today.,我今天学会了单词“create”（创造，创作）。
+pass,pass,/pæs/,/pæs/,A1,travel,n. 及格 | vt. 通过 | vi. 经过,I learned the word “pass” today.,我今天学会了单词“pass”（及格）。
+place,place,/pleɪs/,/pleɪs/,A1,education,n. 地方 | vt. 放置 | vi. 名列前茅,I learned the word “place” today.,我今天学会了单词“place”（地方）。
+shorts,shorts,/ʃɔrts/,/ʃɔrts/,A1,society,n. 短裤,I learned the word “shorts” today.,我今天学会了单词“shorts”（短裤）。
+love,love,/ləv/,/ləv/,A1,emotion,n. 恋爱 | v. 爱，热爱,I learned the word “love” today.,我今天学会了单词“love”（恋爱）。
+show,show,/ʃoʊ/,/ʃoʊ/,A1,daily,n. 显示 | vt. 显示 | vi. 显示,I learned the word “show” today.,我今天学会了单词“show”（显示）。
+brave,brave,/breɪv/,/breɪv/,A1,travel,n. 勇士 | adj. 勇敢的 | vt. 勇敢地面对,I learned the word “brave” today.,我今天学会了单词“brave”（勇士）。
+report,report,/rɪˈpɔrt/,/rɪˈpɔrt/,A1,nature,n. 报告 | vt. 报告 | vi. 报告,I learned the word “report” today.,我今天学会了单词“report”（报告）。
+cover,cover,/ˈkəvər/,/ˈkəvər/,A1,thinking,n. 封面，封皮 | vt. 包括 | vi. 覆盖,I learned the word “cover” today.,我今天学会了单词“cover”（封面，封皮）。
+dreamt,dreamt,/drɛmt/,/drɛmt/,A1,nature,v. 梦想（dream的过去式，过去分词）,I learned the word “dreamt” today.,我今天学会了单词“dreamt”（梦想（dream的过去式）。
+clever,clever,/ˈklɛvər/,/ˈklɛvər/,A1,society,adj. 聪明的,I learned the word “clever” today.,我今天学会了单词“clever”（聪明的）。
+better,better,/ˈbɛtər/,/ˈbɛtər/,A1,travel,n. 长辈 | adj. 较好的 | vt. 改善,I learned the word “better” today.,我今天学会了单词“better”（长辈）。
+wrong,wrong,/rɔŋ/,/rɔŋ/,A1,travel,n. 坏事 | adj. 错误的 | vt. 委屈,I learned the word “wrong” today.,我今天学会了单词“wrong”（坏事）。
+nature,nature,/ˈneɪʧər/,/ˈneɪʧər/,A1,nature,n. 自然,I learned the word “nature” today.,我今天学会了单词“nature”（自然）。
+key,key,/ki/,/ki/,A1,travel,n. （打字机等的）键 | vt. 键入 | vi. 使用钥匙,I learned the word “key” today.,我今天学会了单词“key”（（打字机等的）键）。
+notice,notice,/ˈnoʊtɪs/,/ˈnoʊtɪs/,A1,nature,n. 通知，布告 | vt. 通知 | vi. 引起注意,I learned the word “notice” today.,我今天学会了单词“notice”（通知，布告）。
+test,test,/tɛst/,/tɛst/,A1,thinking,n. 试验 | vt. 试验 | vi. 试验,I learned the word “test” today.,我今天学会了单词“test”（试验）。
+drop,drop,/drɔp/,/drɔp/,A1,nature,n. 滴 | vt. 滴 | vi. 下降,I learned the word “drop” today.,我今天学会了单词“drop”（滴）。
+cap,cap,/kæp/,/kæp/,A1,nature,n. 盖 | vt. 覆盖 | vi. 脱帽致意,I learned the word “cap” today.,我今天学会了单词“cap”（盖）。
+mess,mess,/mɛs/,/mɛs/,A1,daily,n. 混乱 | vt. 弄乱，弄脏 | vi. 把事情弄糟,I learned the word “mess” today.,我今天学会了单词“mess”（混乱）。
+in,in,/ɪn/,/ɪn/,A1,thinking,prep. 按照（表示方式） | n. 执政者 | adj. 在里面的,I learned the word “in” today.,我今天学会了单词“in”（按照（表示方式））。
+loudly,loudly,/ˈlaʊdli/,/ˈlaʊdli/,A1,thinking,adv. 大声地，响亮地,I learned the word “loudly” today.,我今天学会了单词“loudly”（大声地，响亮地）。
+weight,weight,/weɪt/,/weɪt/,A1,education,n. 重量，重力 | vt. 加重量于，使变重,I learned the word “weight” today.,我今天学会了单词“weight”（重量，重力）。
+pink,pink,/pɪŋk/,/pɪŋk/,A1,daily,n. 粉红色 | adj. 粉红的 | vt. 扎，刺，戳,I learned the word “pink” today.,我今天学会了单词“pink”（粉红色）。
+lesson,lesson,/ˈlɛsən/,/ˈlɛsən/,A1,education,n. 教训 | vt. 教训,I learned the word “lesson” today.,我今天学会了单词“lesson”（教训）。
+took,took,/tʊk/,/tʊk/,A1,daily,v. 拿,I learned the word “took” today.,我今天学会了单词“took”（拿）。
+main,main,/meɪn/,/meɪn/,A1,nature,n. 主要部分，要点 | adj. 主要的，最重要的,I learned the word “main” today.,我今天学会了单词“main”（主要部分，要点）。
+salt,salt,/sɔlt/,/sɔlt/,A1,thinking,n. 盐 | adj. 咸水的 | vt. 用盐腌,I learned the word “salt” today.,我今天学会了单词“salt”（盐）。
+magic,magic,/ˈmæʤɪk/,/ˈmæʤɪk/,A1,education,n. 巫术 | adj. 不可思议的,I learned the word “magic” today.,我今天学会了单词“magic”（巫术）。
+power,power,/paʊər/,/paʊər/,A1,education,n. 力量，能力 | adj. 借影响有权势人物以操纵权力的 | vt. 激励,I learned the word “power” today.,我今天学会了单词“power”（力量，能力）。
+gift,gift,/gɪft/,/gɪft/,A1,education,n. 礼物 | vt. 赋予,I learned the word “gift” today.,我今天学会了单词“gift”（礼物）。
+sunny,sunny,/ˈsəni/,/ˈsəni/,A1,travel,adj. 阳光充足的，和煦的,I learned the word “sunny” today.,我今天学会了单词“sunny”（阳光充足的，和煦的）。
+mm,mm,,,A1,education,abbr. 毫米（millimeter） | n. 缅甸的域名,I learned the word “mm” today.,我今天学会了单词“mm”（毫米（millimete）。
+snow,snow,/snoʊ/,/snoʊ/,A1,travel,n. 雪，积雪 | vt. 使纷纷落下 | vi. 降雪,I learned the word “snow” today.,我今天学会了单词“snow”（雪，积雪）。
+forget,forget,/fərˈgɛt/,/fərˈgɛt/,A1,travel,vi. 忘记 | vt. 忘记,I learned the word “forget” today.,我今天学会了单词“forget”（忘记）。
+flat,flat,/flæt/,/flæt/,A1,society,n. 平地 | adj. 平的 | vi. 逐渐变平,I learned the word “flat” today.,我今天学会了单词“flat”（平地）。
+reach,reach,/riʧ/,/riʧ/,A1,travel,n. 范围 | vi. 达到 | vt. 达到,I learned the word “reach” today.,我今天学会了单词“reach”（范围）。
+neck,neck,/nɛk/,/nɛk/,A1,travel,n. 脖子 | vi. 搂著脖子亲吻 | vt. 使变细,I learned the word “neck” today.,我今天学会了单词“neck”（脖子）。
+well,well,/wɛl/,/wɛl/,A1,daily,n. 井 | adj. 良好的 | adv. 很好地,I learned the word “well” today.,我今天学会了单词“well”（井）。
+hardly,hardly,/ˈhɑrdli/,/ˈhɑrdli/,A1,society,adv. 几乎不，简直不,I learned the word “hardly” today.,我今天学会了单词“hardly”（几乎不，简直不）。
+glue,glue,/glu/,/glu/,A1,travel,n. 胶 | vt. 粘合,I learned the word “glue” today.,我今天学会了单词“glue”（胶）。
+stamp,stamp,/stæmp/,/stæmp/,A1,society,n. 邮票 | vt. 铭记 | vi. 跺脚,I learned the word “stamp” today.,我今天学会了单词“stamp”（邮票）。
+usual,usual,/ˈjuʒəwəl/,/ˈjuʒəwəl/,A1,daily,adj. 通常的，惯例的,I learned the word “usual” today.,我今天学会了单词“usual”（通常的，惯例的）。
+square,square,/skwɛr/,/skwɛr/,A1,education,n. 平方 | adj. 平方的 | vt. 使成方形,I learned the word “square” today.,我今天学会了单词“square”（平方）。
+bottom,bottom,/ˈbɑtəm/,/ˈbɑtəm/,A1,travel,n. 底部 | adj. 底部的 | vt. 装底,I learned the word “bottom” today.,我今天学会了单词“bottom”（底部）。
+pale,pale,/peɪl/,/peɪl/,A1,travel,n. 前哨 | adj. 苍白的 | vt. 使失色,I learned the word “pale” today.,我今天学会了单词“pale”（前哨）。
+this,this,/ðɪs/,/ðɪs/,A1,daily,adj. 这 | pron. 这 | adv. 这样地,I learned the word “this” today.,我今天学会了单词“this”（这）。
+note,note,/noʊt/,/noʊt/,A1,society,n. 笔记 | vt. 注意,I learned the word “note” today.,我今天学会了单词“note”（笔记）。
+fall,fall,/fɔl/,/fɔl/,A1,nature,n. 下降 | adj. 秋天的 | vi. 落下,I learned the word “fall” today.,我今天学会了单词“fall”（下降）。
+coach,coach,/koʊʧ/,/koʊʧ/,A1,daily,n. 教练 | vt. 训练 | vi. 作指导,I learned the word “coach” today.,我今天学会了单词“coach”（教练）。
+chip,chip,/ʧɪp/,/ʧɪp/,A1,travel,n. 芯片 | vt. 削，凿 | vi. 剥落,I learned the word “chip” today.,我今天学会了单词“chip”（芯片）。
+should,should,/ʃʊd/,/ʃʊd/,A1,education,aux. 应该,I learned the word “should” today.,我今天学会了单词“should”（应该）。
+grow,grow,/groʊ/,/groʊ/,A1,daily,vi. 发展 | vt. 使生长,I learned the word “grow” today.,我今天学会了单词“grow”（发展）。
+pull,pull,/pʊl/,/pʊl/,A1,daily,n. 拉，拉绳 | vt. 拉 | vi. 拉，拖,I learned the word “pull” today.,我今天学会了单词“pull”（拉，拉绳）。
+wet,wet,/wɛt/,/wɛt/,A1,travel,n. 雨天 | adj. 潮湿的 | vt. 弄湿,I learned the word “wet” today.,我今天学会了单词“wet”（雨天）。
+planet,planet,/ˈplænət/,/ˈplænət/,A1,travel,n. 行星,I learned the word “planet” today.,我今天学会了单词“planet”（行星）。
+agree,agree,/əˈgri/,/əˈgri/,A1,society,vi. vi. 同意，意见一致 | vt. 同意，赞成,I learned the word “agree” today.,我今天学会了单词“agree”（vi. 同意，意见一致）。
+novel,novel,/ˈnɑvəl/,/ˈnɑvəl/,A1,society,adj. 新奇的 | n. 小说,I learned the word “novel” today.,我今天学会了单词“novel”（新奇的）。
+galaxy,galaxy,/ˈgæləksi/,/ˈgæləksi/,A1,thinking,n. 银河 | n. 三星智能手机品牌 2015年三星中国公布Galaxy的中文名称为“盖乐世”（…,I learned the word “galaxy” today.,我今天学会了单词“galaxy”（银河）。
+cause,cause,/kɔz/,/kɔz/,A1,daily,n. 原因 | vt. 引起,I learned the word “cause” today.,我今天学会了单词“cause”（原因）。
+ground,ground,/graʊnd/,/graʊnd/,A1,education,n. 地面 | v. 研磨（grind的过去分词） | adj. 土地的,I learned the word “ground” today.,我今天学会了单词“ground”（地面）。
+toy,toy,/tɔɪ/,/tɔɪ/,A1,travel,n. 玩具 | adj. 作为玩具的 | vi. 玩弄,I learned the word “toy” today.,我今天学会了单词“toy”（玩具）。
+climb,climb,/klaɪm/,/klaɪm/,A1,nature,n. 爬 | vi. 爬 | vt. 爬,I learned the word “climb” today.,我今天学会了单词“climb”（爬）。
+hid,hid,/hɪd/,/hɪd/,A1,thinking,v. 隐藏,I learned the word “hid” today.,我今天学会了单词“hid”（隐藏）。
+park,park,/pɑrk/,/pɑrk/,A1,nature,n. 公园 | vt. 停放 | vi. 停放车辆,I learned the word “park” today.,我今天学会了单词“park”（公园）。
+stuck,stuck,/stək/,/stək/,A1,education,v. 刺（stick的过去式） | adj. 被卡住的,I learned the word “stuck” today.,我今天学会了单词“stuck”（刺（stick的过去式））。
+pie,pie,/paɪ/,/paɪ/,A1,education,n. 馅饼 | vt. 使杂乱,I learned the word “pie” today.,我今天学会了单词“pie”（馅饼）。
+form,form,/fɔrm/,/fɔrm/,A1,nature,n. 形式，形状 | vt. 构成，组成 | vi. 形成，构成,I learned the word “form” today.,我今天学会了单词“form”（形式，形状）。
+aloud,aloud,/əˈlaʊd/,/əˈlaʊd/,A1,nature,adv. 大声地,I learned the word “aloud” today.,我今天学会了单词“aloud”（大声地）。
+person,person,/ˈpərsən/,/ˈpərsən/,A1,society,n. 人,I learned the word “person” today.,我今天学会了单词“person”（人）。
+mind,mind,/maɪnd/,/maɪnd/,A1,society,n. 理智，精神 | vt. 介意 | vi. 介意,I learned the word “mind” today.,我今天学会了单词“mind”（理智，精神）。
+radio,radio,/ˈreɪdiˌoʊ/,/ˈreɪdiˌoʊ/,A1,travel,n. 收音机 | vt. 用无线电发送 | vi. 用无线电进行通信,I learned the word “radio” today.,我今天学会了单词“radio”（收音机）。
+ice,ice,/aɪs/,/aɪs/,A1,society,n. 冰 | adj. 冰的 | vt. 冰镇,I learned the word “ice” today.,我今天学会了单词“ice”（冰）。
+west,west,/wɛst/,/wɛst/,A1,education,n. 西 | adj. 西方的 | adv. 在西方,I learned the word “west” today.,我今天学会了单词“west”（西）。
+arabic,Arabic,/ˈɛrəbɪk/,/ˈɛrəbɪk/,A1,society,n. 阿拉伯语 | adj. 阿拉伯的,I learned the word “Arabic” today.,我今天学会了单词“Arabic”（阿拉伯语）。
+human,human,/ˈjumən/,/ˈjumən/,A1,education,n. 人 | adj. 人的,I learned the word “human” today.,我今天学会了单词“human”（人）。
+peace,peace,/pis/,/pis/,A1,education,n. 和平,I learned the word “peace” today.,我今天学会了单词“peace”（和平）。
+hit,hit,/hɪt/,/hɪt/,A1,travel,n. 打 | vt. 打击 | vi. 打,I learned the word “hit” today.,我今天学会了单词“hit”（打）。
+than,than,/ðən/,/ðən/,A1,nature,conj. 比（用于形容词、副词的比较级之后） | prep. 比,I learned the word “than” today.,我今天学会了单词“than”（比（用于形容词、副词的比）。
+warm,warm,/wɔrm/,/wɔrm/,A1,sport,n. 取暖 | adj. 温暖的 | vt. 使…兴奋,I learned the word “warm” today.,我今天学会了单词“warm”（取暖）。
+lift,lift,/lɪft/,/lɪft/,A1,nature,vt. 举起 | vi. 消散 | n. 电梯,I learned the word “lift” today.,我今天学会了单词“lift”（举起）。
+just,just,/ʤɪst/,/ʤɪst/,A1,daily,adv. 只是，仅仅 | adj. 公正的，合理的,I learned the word “just” today.,我今天学会了单词“just”（只是，仅仅）。
+close,close,/kloʊz/,/kloʊz/,A1,society,n. 结束 | adj. 紧密的 | vt. 关,I learned the word “close” today.,我今天学会了单词“close”（结束）。
+jam,jam,/ʤæm/,/ʤæm/,A1,education,n. 果酱 | vt. 使堵塞 | vi. 堵塞,I learned the word “jam” today.,我今天学会了单词“jam”（果酱）。
+under,under,/ˈəndər/,/ˈəndər/,A1,daily,prep. 低于，少于 | adj. 下面的 | adv. 在下面,I learned the word “under” today.,我今天学会了单词“under”（低于，少于）。
+pound,pound,/paʊnd/,/paʊnd/,A1,society,n. 英镑 | vt. 捣烂 | vi. 连续重击，猛击,I learned the word “pound” today.,我今天学会了单词“pound”（英镑）。
+on,on,/ɔn/,/ɔn/,A1,travel,adv. 向前地 | prep. 向，朝…… | adj. 开着的,I learned the word “on” today.,我今天学会了单词“on”（向前地）。
+ear,ear,/ɪr/,/ɪr/,A1,daily,n. 耳朵 | vi. （美俚）听见,I learned the word “ear” today.,我今天学会了单词“ear”（耳朵）。
+lovely,lovely,/ˈləvli/,/ˈləvli/,A1,emotion,adj. 可爱的 | n. 美女,I learned the word “lovely” today.,我今天学会了单词“lovely”（可爱的）。
+laugh,laugh,/læf/,/læf/,A1,thinking,n. 笑 | vi. 笑 | vt. 以笑表示,I learned the word “laugh” today.,我今天学会了单词“laugh”（笑）。
+avoid,avoid,/əˈvɔɪd/,/əˈvɔɪd/,A1,nature,vt. 避免,I learned the word “avoid” today.,我今天学会了单词“avoid”（避免）。
+woke,woke,/woʊk/,/woʊk/,A1,society,v. 唤醒,I learned the word “woke” today.,我今天学会了单词“woke”（唤醒）。
+as,as,/ɛz/,/ɛz/,A1,society,conj. 因为 | prep. 如同 | adv. 同样地,I learned the word “as” today.,我今天学会了单词“as”（因为）。
+shy,shy,/ʃaɪ/,/ʃaɪ/,A1,education,n. 投掷 | adj. 害羞的 | vi. 投,I learned the word “shy” today.,我今天学会了单词“shy”（投掷）。
+woken,woken,/ˈwoʊkən/,/ˈwoʊkən/,A1,travel,v. 唤醒,I learned the word “woken” today.,我今天学会了单词“woken”（唤醒）。
+light,light,/laɪt/,/laɪt/,A1,daily,n. 光 | adj. 轻的 | vi. 点着,I learned the word “light” today.,我今天学会了单词“light”（光）。
+ill,ill,/ɪl/,/ɪl/,A1,health,n. 疾病 | adj. 生病的 | adv. 不利地,I learned the word “ill” today.,我今天学会了单词“ill”（疾病）。
+fever,fever,/ˈfivər/,/ˈfivər/,A1,health,n. 发烧，发热 | vt. 使发烧 | vi. 发烧,I learned the word “fever” today.,我今天学会了单词“fever”（发烧，发热）。
+birth,birth,/bərθ/,/bərθ/,A1,nature,n. 出生,I learned the word “birth” today.,我今天学会了单词“birth”（出生）。
+done,done,/dən/,/dən/,A1,travel,int. 表示接受建议 | adj. 已完成的 | v. 做（do的过去分词）,I learned the word “done” today.,我今天学会了单词“done”（表示接受建议）。
+book,book,/bʊk/,/bʊk/,A1,education,n. 书籍 | vt. 预订,I learned the word “book” today.,我今天学会了单词“book”（书籍）。
+ssh,ssh,,,A1,society,int. 嘘！,I learned the word “ssh” today.,我今天学会了单词“ssh”（嘘！）。
+corner,corner,/ˈkɔrnər/,/ˈkɔrnər/,A1,travel,n. 角落，拐角处 | vt. 垄断 | vi. 囤积,I learned the word “corner” today.,我今天学会了单词“corner”（角落，拐角处）。
+soft,soft,/sɔft/,/sɔft/,A1,daily,n. 柔性 | adj. 软的，柔软的 | adv. 柔软地,I learned the word “soft” today.,我今天学会了单词“soft”（柔性）。
+way,way,/weɪ/,/weɪ/,A1,travel,n. 方法 | adj. 途中的 | adv. 大大地,I learned the word “way” today.,我今天学会了单词“way”（方法）。
+count,count,/kaʊnt/,/kaʊnt/,A1,society,n. 计数 | vt. 计算 | vi. 计数,I learned the word “count” today.,我今天学会了单词“count”（计数）。
+match,match,/mæʧ/,/mæʧ/,A1,sport,vt. 使比赛 | vi. 比赛 | n. 比赛，竞赛,I learned the word “match” today.,我今天学会了单词“match”（使比赛）。
+heart,heart,/hɑrt/,/hɑrt/,A1,arts,n. 心脏 | vt. 鼓励 | vi. 结心,I learned the word “heart” today.,我今天学会了单词“heart”（心脏）。
+dry,dry,/draɪ/,/draɪ/,A1,travel,n. 干涸 | adj. 干的 | vt. 把…弄干,I learned the word “dry” today.,我今天学会了单词“dry”（干涸）。
+round,round,/raʊnd/,/raʊnd/,A1,daily,n. 圆 | prep. 附近 | adj. 圆的,I learned the word “round” today.,我今天学会了单词“round”（圆）。
+mark,mark,/mɑrk/,/mɑrk/,A1,society,n. 标志 | vi. 作记号 | vt. .标志,I learned the word “mark” today.,我今天学会了单词“mark”（标志）。
+huge,huge,/juʤ/,/juʤ/,A1,education,adj. 巨大的,I learned the word “huge” today.,我今天学会了单词“huge”（巨大的）。
+value,value,/ˈvælju/,/ˈvælju/,A1,nature,n. 值 | vt. 评价,I learned the word “value” today.,我今天学会了单词“value”（值）。
+out,out,/aʊt/,/aʊt/,A1,nature,adv. 出现 | adj. 外面的 | n. 出局,I learned the word “out” today.,我今天学会了单词“out”（出现）。
+chance,chance,/ʧæns/,/ʧæns/,A1,daily,n. 机会，际遇 | vt. 偶然发生 | vi. 碰巧,I learned the word “chance” today.,我今天学会了单词“chance”（机会，际遇）。
+ache,ache,/eɪk/,/eɪk/,A1,society,n. 疼痛 | vi. 疼痛,I learned the word “ache” today.,我今天学会了单词“ache”（疼痛）。
+invite,invite,/ˌɪnˈvaɪt/,/ˌɪnˈvaɪt/,A1,nature,n. 邀请 | vt. 邀请，招待,I learned the word “invite” today.,我今天学会了单词“invite”（邀请）。
+solve,solve,/sɑlv/,/sɑlv/,A1,nature,vt. 解决 | vi. 作解答,I learned the word “solve” today.,我今天学会了单词“solve”（解决）。
+miss,miss,/mɪs/,/mɪs/,A1,education,n. 女士，小姐，年轻未婚女子 | vt. 错过，想念，缺（勤）,I learned the word “miss” today.,我今天学会了单词“miss”（女士，小姐，年轻未婚女子）。
+throw,throw,/θroʊ/,/θroʊ/,A1,nature,n. 投掷 | vt. 投 | vi. 抛,I learned the word “throw” today.,我今天学会了单词“throw”（投掷）。
+follow,follow,/ˈfɑloʊ/,/ˈfɑloʊ/,A1,travel,n. 跟随 | vi. 跟随 | vt. 跟随,I learned the word “follow” today.,我今天学会了单词“follow”（跟随）。
+copy,copy,/ˈkɑpi/,/ˈkɑpi/,A1,nature,n. 副本 | vt. 复制 | vi. 复制,I learned the word “copy” today.,我今天学会了单词“copy”（副本）。
+sights,sights,/saɪts/,/saɪts/,A1,nature,n. 风景，名胜 | v. 瞄准（sight的第三人称单数）,I learned the word “sights” today.,我今天学会了单词“sights”（风景，名胜）。
+twice,twice,/twaɪs/,/twaɪs/,A1,society,adv. 两次,I learned the word “twice” today.,我今天学会了单词“twice”（两次）。
+grew,grew,/gru/,/gru/,A1,daily,v. 成长，种植（grow的过去式）,I learned the word “grew” today.,我今天学会了单词“grew”（成长，种植（grow的过）。
+own,own,/oʊn/,/oʊn/,A1,thinking,vt. 拥有 | vi. 承认 | adj. 自己的,I learned the word “own” today.,我今天学会了单词“own”（拥有）。
+trust,trust,/trəst/,/trəst/,A1,travel,n. 信任，信赖 | vt. 信任，信赖 | vi. 信任，信赖,I learned the word “trust” today.,我今天学会了单词“trust”（信任，信赖）。
+inside,inside,/ˌɪnˈsaɪd/,/ˌɪnˈsaɪd/,A1,travel,prep. 少于 | n. 里面 | adj. 里面的,I learned the word “inside” today.,我今天学会了单词“inside”（少于）。
+expect,expect,/ɪkˈspɛkt/,/ɪkˈspɛkt/,A1,society,vi. 期待 | vt. 期望,I learned the word “expect” today.,我今天学会了单词“expect”（期待）。
+video,video,/ˈvɪdioʊ/,/ˈvɪdioʊ/,A1,travel,n. 视频 | adj. 视频的 | v. 录制,I learned the word “video” today.,我今天学会了单词“video”（视频）。
+come-on,come on,/kəm ɔn/,/kəm ɔn/,A2,society,na. (演员)出台 | 来吧,We often say “come on” in class.,课堂上常说“na. (演员)出台”。
+daily-life,daily life,/ˈdeɪli laɪf/,/ˈdeɪli laɪf/,A2,education,n. 起居 | 日常生活,We often say “daily life” in class.,课堂上常说“起居”。
+herself,herself,/hərˈsɛlf/,/hərˈsɛlf/,A2,thinking,pron. 她自己（she的反身代词）,I learned the word “herself” today.,我今天学会了单词“herself”（她自己（she的反身代词）。
+complete,complete,/kəmˈplit/,/kəmˈplit/,A2,society,adj. 完整的 | vt. 完成,I learned the word “complete” today.,我今天学会了单词“complete”（完整的）。
+pronounce,pronounce,/prəˈnaʊns/,/prəˈnaʊns/,A2,daily,vt. 发音 | vi. 发音,I learned the word “pronounce” today.,我今天学会了单词“pronounce”（发音）。
+training,training,/ˈtreɪnɪŋ/,/ˈtreɪnɪŋ/,A2,travel,n. 训练 | v. 训练,I learned the word “training” today.,我今天学会了单词“training”（训练）。
+quickly,quickly,/kˈwɪkli/,/kˈwɪkli/,A2,nature,adv. 迅速地,I learned the word “quickly” today.,我今天学会了单词“quickly”（迅速地）。
+activity,activity,/ækˈtɪvɪti/,/ækˈtɪvɪti/,A2,travel,n. 活动,I learned the word “activity” today.,我今天学会了单词“activity”（活动）。
+handsome,handsome,/ˈhænsəm/,/ˈhænsəm/,A2,society,adj. （男子）英俊的,I learned the word “handsome” today.,我今天学会了单词“handsome”（（男子）英俊的）。
+natural,natural,/ˈnæʧərəl/,/ˈnæʧərəl/,A2,travel,adj. 自然的 | n. 自然的事情,I learned the word “natural” today.,我今天学会了单词“natural”（自然的）。
+protect,protect,/prəˈtɛkt/,/prəˈtɛkt/,A2,environment,vt. 保护，防卫,I learned the word “protect” today.,我今天学会了单词“protect”（保护，防卫）。
+government,government,/ˈgəvərnmənt/,/ˈgəvərnmənt/,A2,society,n. 政府,I learned the word “government” today.,我今天学会了单词“government”（政府）。
+set-up,set up,/sɛt əp/,/sɛt əp/,A2,travel,na. 建立 | 设立,We often say “set up” in class.,课堂上常说“na. 建立”。
+competition,competition,/ˌkɑmpəˈtɪʃən/,/ˌkɑmpəˈtɪʃən/,A2,nature,n. 竞争,I learned the word “competition” today.,我今天学会了单词“competition”（竞争）。
+lift-up,lift up,/lɪft əp/,/lɪft əp/,A2,society,na. 同“lift” | 举起,We often say “lift up” in class.,课堂上常说“na. 同“lift””。
+freshwater,freshwater,/ˈfrɛʃˌwɔtər/,/ˈfrɛʃˌwɔtər/,A2,education,n. 淡水 | adj. 淡水的,I learned the word “freshwater” today.,我今天学会了单词“freshwater”（淡水）。
+discover,discover,/dɪˈskəvər/,/dɪˈskəvər/,A2,travel,vi. 发现 | vt. 发现,I learned the word “discover” today.,我今天学会了单词“discover”（发现）。
+stadium,stadium,/ˈsteɪdiəm/,/ˈsteɪdiəm/,A2,society,n. 体育场,I learned the word “stadium” today.,我今天学会了单词“stadium”（体育场）。
+part-time,part-time,/ˈpɑrtˈtaɪm/,/ˈpɑrtˈtaɪm/,A2,arts,adj. 兼职的 | adv. 兼职地,We often say “part-time” in class.,课堂上常说“兼职的”。
+vocabulary,vocabulary,/voʊˈkæbjəˌlɛri/,/voʊˈkæbjəˌlɛri/,A2,society,n. 词汇,I learned the word “vocabulary” today.,我今天学会了单词“vocabulary”（词汇）。
+purpose,purpose,/ˈpərpəs/,/ˈpərpəs/,A2,travel,n. 目的 | vt. 决心,I learned the word “purpose” today.,我今天学会了单词“purpose”（目的）。
+pollution,pollution,/pəˈluʃən/,/pəˈluʃən/,A2,environment,n. 污染 | 污染物,I learned the word “pollution” today.,我今天学会了单词“pollution”（污染）。
+director,director,/dɪˈrɛktər/,/dɪˈrɛktər/,A2,thinking,n. 主任，主管,I learned the word “director” today.,我今天学会了单词“director”（主任，主管）。
+for-example,for example,/fər ɪgˈzæmpəl/,/fər ɪgˈzæmpəl/,A2,education,na. 例如 | 举例,We often say “for example” in class.,课堂上常说“na. 例如”。
+universe,universe,/ˈjunəˌvərs/,/ˈjunəˌvərs/,A2,nature,n. 宇宙,I learned the word “universe” today.,我今天学会了单词“universe”（宇宙）。
+background,background,/ˈbækˌgraʊnd/,/ˈbækˌgraʊnd/,A2,daily,n. 背景 | adj. 背景的 | vt. 作…的背景,I learned the word “background” today.,我今天学会了单词“background”（背景）。
+in-person,in person,/ɪn ˈpərsən/,/ɪn ˈpərsən/,A2,daily,na. 亲自 | 本人,We often say “in person” in class.,课堂上常说“na. 亲自”。
+exciting,exciting,/ɪkˈsaɪtɪŋ/,/ɪkˈsaɪtɪŋ/,A2,society,adj. 令人兴奋的 | v. 激动,I learned the word “exciting” today.,我今天学会了单词“exciting”（令人兴奋的）。
+stomach-ache,stomach ache,/ˈstəmək eɪk/,/ˈstəmək eɪk/,A2,nature,n. 胃痛 | 胃疼,We often say “stomach ache” in class.,课堂上常说“胃痛”。
+meaning,meaning,/ˈminɪŋ/,/ˈminɪŋ/,A2,travel,n. 意义 | adj. 意味深长的 | v. 意味,I learned the word “meaning” today.,我今天学会了单词“meaning”（意义）。
+olympics,Olympics,/oʊˈlɪmpɪks/,/oʊˈlɪmpɪks/,A2,travel,（暂无释义）,I learned the word “Olympics” today.,我今天学会了单词“Olympics”（（暂无释义））。
+serious,serious,/ˈsɪriəs/,/ˈsɪriəs/,A2,education,adj. 严肃的，严重的,I learned the word “serious” today.,我今天学会了单词“serious”（严肃的，严重的）。
+depend-on,depend on,/dɪˈpɛnd ɔn/,/dɪˈpɛnd ɔn/,A2,nature,v. 依靠 | 依赖,We often say “depend on” in class.,课堂上常说“依靠”。
+practise,practise,/ˈpræktɪs/,/ˈpræktɪs/,A2,daily,vi. 练习，实践 | vt. 练习，实践,I learned the word “practise” today.,我今天学会了单词“practise”（练习，实践）。
+research,research,/ˈrisərʧ/,/ˈrisərʧ/,A2,nature,n. 研究 | vt. 研究 | vi. 研究,I learned the word “research” today.,我今天学会了单词“research”（研究）。
+look-after,look after,/lʊk ˈæftər/,/lʊk ˈæftər/,A2,daily,na. 照看 | 照料,We often say “look after” in class.,课堂上常说“na. 照看”。
+astronaut,astronaut,/ˈæstrəˌnɑt/,/ˈæstrəˌnɑt/,A2,thinking,n. 宇航员，航天员,I learned the word “astronaut” today.,我今天学会了单词“astronaut”（宇航员，航天员）。
+correct,correct,/kərˈɛkt/,/kərˈɛkt/,A2,nature,adj. 正确的 | vt. 改正 | vi. 调整,I learned the word “correct” today.,我今天学会了单词“correct”（正确的）。
+thirsty,thirsty,/ˈθərsti/,/ˈθərsti/,A2,thinking,adj. 口渴的，口干的,I learned the word “thirsty” today.,我今天学会了单词“thirsty”（口渴的，口干的）。
+grammar,grammar,/ˈgræmər/,/ˈgræmər/,A2,nature,n. 语法,I learned the word “grammar” today.,我今天学会了单词“grammar”（语法）。
+confident,confident,/ˈkɑnfədənt/,/ˈkɑnfədənt/,A2,society,adj. 自信的,I learned the word “confident” today.,我今天学会了单词“confident”（自信的）。
+whether,whether,/ˈwɛðər/,/ˈwɛðər/,A2,daily,conj. 是否 | pron. 两个中的哪一个,I learned the word “whether” today.,我今天学会了单词“whether”（是否）。
+plenty-of,plenty of,/ˈplɛnti əv/,/ˈplɛnti əv/,A2,education,na. 很多的 | 许多,We often say “plenty of” in class.,课堂上常说“na. 很多的”。
+immediately,immediately,/ˌɪˈmiˌdiətli/,/ˌɪˈmiˌdiətli/,A2,nature,conj. 一…就 | adv. 立即，立刻,I learned the word “immediately” today.,我今天学会了单词“immediately”（一…就）。
+umbrella,umbrella,/ˈəmˌbrɛlə/,/ˈəmˌbrɛlə/,A2,daily,n. 雨伞,I learned the word “umbrella” today.,我今天学会了单词“umbrella”（雨伞）。
+develop,develop,/dɪˈvɛləp/,/dɪˈvɛləp/,A2,nature,vi. 发育 | vt. 开发,I learned the word “develop” today.,我今天学会了单词“develop”（发育）。
+prepare,prepare,/priˈpɛr/,/priˈpɛr/,A2,travel,vt. 准备 | vi. 预备,I learned the word “prepare” today.,我今天学会了单词“prepare”（准备）。
+trousers,trousers,/ˈtraʊzərz/,/ˈtraʊzərz/,A2,thinking,n. 裤子，长裤,I learned the word “trousers” today.,我今天学会了单词“trousers”（裤子，长裤）。
+produce,produce,/ˈproʊdus/,/ˈproʊdus/,A2,daily,n. 农产品，产品 | vt. 生产 | vi. 生产，创作,I learned the word “produce” today.,我今天学会了单词“produce”（农产品，产品）。
+chopstick,chopstick,/ˈʧɑpˌstɪk/,/ˈʧɑpˌstɪk/,A2,daily,n. 筷子,I learned the word “chopstick” today.,我今天学会了单词“chopstick”（筷子）。
+write-about,write about,/raɪt əˈbaʊt/,/raɪt əˈbaʊt/,A2,education,"写…的事, 写到…, 把（某事）作为写作的主题",We often say “write about” in class.,"课堂上常说“写…的事, 写到…, 把（某事）”。"
+outside,outside,/ˈaʊtˈsaɪd/,/ˈaʊtˈsaɪd/,A2,society,adj. 外面的，外部的 | n. 外部 | adv. 在外面，向外面,I learned the word “outside” today.,我今天学会了单词“outside”（外面的，外部的）。
+difference,difference,/ˈdɪfərəns/,/ˈdɪfərəns/,A2,nature,n. 差异,I learned the word “difference” today.,我今天学会了单词“difference”（差异）。
+fast-food,fast food,/fæst fud/,/fæst fud/,A2,thinking,n. 快餐 | 快餐食品,We often say “fast food” in class.,课堂上常说“快餐”。
+communicate,communicate,/kəmˈjunəˌkeɪt/,/kəmˈjunəˌkeɪt/,A2,thinking,vi. 通讯，传达 | vt. 传达,I learned the word “communicate” today.,我今天学会了单词“communicate”（通讯，传达）。
+provide,provide,/prəˈvaɪd/,/prəˈvaɪd/,A2,society,vt. 提供 | vi. 规定,I learned the word “provide” today.,我今天学会了单词“provide”（提供）。
+society,society,/soʊˈsaɪɪti/,/soʊˈsaɪɪti/,A2,society,n. 社会,I learned the word “society” today.,我今天学会了单词“society”（社会）。
+helpful,helpful,/ˈhɛlpfəl/,/ˈhɛlpfəl/,A2,society,adj. 有帮助的,I learned the word “helpful” today.,我今天学会了单词“helpful”（有帮助的）。
+service,service,/ˈsərvɪs/,/ˈsərvɪs/,A2,society,n. 服务，服侍 | adj. 服务性的 | vt. 维修，检修,I learned the word “service” today.,我今天学会了单词“service”（服务，服侍）。
+classmate,classmate,/ˈklæsˌmeɪt/,/ˈklæsˌmeɪt/,A2,education,n. 同班同学,I learned the word “classmate” today.,我今天学会了单词“classmate”（同班同学）。
+think-of,think of,/θɪŋk əv/,/θɪŋk əv/,A2,nature,na. 想起 | 考虑,We often say “think of” in class.,课堂上常说“na. 想起”。
+take-up,take up,/teɪk əp/,/teɪk əp/,A2,thinking,na. 拿起 | 占据,We often say “take up” in class.,课堂上常说“na. 拿起”。
+ask-for,ask for,/æsk fər/,/æsk fər/,A2,nature,na. 要(价) | 请求,We often say “ask for” in class.,课堂上常说“na. 要(价)”。
+however,however,/ˌhaʊˈɛvər/,/ˌhaʊˈɛvər/,A2,travel,conj. 无论以何种方式 | adv. 无论如何,I learned the word “however” today.,我今天学会了单词“however”（无论以何种方式）。
+notebook,notebook,/ˈnoʊtˌbʊk/,/ˈnoʊtˌbʊk/,A2,education,n. 笔记本，笔记簿,I learned the word “notebook” today.,我今天学会了单词“notebook”（笔记本，笔记簿）。
+success,success,/səkˈsɛs/,/səkˈsɛs/,A2,society,n. 成功，成就,I learned the word “success” today.,我今天学会了单词“success”（成功，成就）。
+harmful,harmful,/ˈhɑrmfəl/,/ˈhɑrmfəl/,A2,nature,adj. 有害的,I learned the word “harmful” today.,我今天学会了单词“harmful”（有害的）。
+article,article,/ˈɑrtɪkəl/,/ˈɑrtɪkəl/,A2,arts,n. 文章 | vt. 订约将…收为学徒或见习生 | vi. 签订协议,I learned the word “article” today.,我今天学会了单词“article”（文章）。
+tradition,tradition,/trəˈdɪʃən/,/trəˈdɪʃən/,A2,nature,n. 惯例，传统,I learned the word “tradition” today.,我今天学会了单词“tradition”（惯例，传统）。
+sandwich,sandwich,/ˈsænwɪʧ/,/ˈsænwɪʧ/,A2,education,n. 三明治 | vt. 夹入,I learned the word “sandwich” today.,我今天学会了单词“sandwich”（三明治）。
+pleasure,pleasure,/ˈplɛʒər/,/ˈplɛʒər/,A2,nature,n. 快乐 | vt. 使高兴 | vi. 高兴,I learned the word “pleasure” today.,我今天学会了单词“pleasure”（快乐）。
+progress,progress,/ˈprɑˌgrɛs/,/ˈprɑˌgrɛs/,A2,education,n. 进步，发展 | vi. 前进，进步,I learned the word “progress” today.,我今天学会了单词“progress”（进步，发展）。
+interest,interest,/ˈɪntəˌrɛst/,/ˈɪntəˌrɛst/,A2,thinking,n. 兴趣，爱好 | vt. 使……感兴趣,I learned the word “interest” today.,我今天学会了单词“interest”（兴趣，爱好）。
+take-away,take away,/teɪk əˈweɪ/,/teɪk əˈweɪ/,A2,daily,adj. 买回去的 | 拿走,We often say “take away” in class.,课堂上常说“买回去的”。
+rubbish,rubbish,/ˈrəbɪʃ/,/ˈrəbɪʃ/,A2,nature,n. 垃圾，废物 | adj. 毫无价值的,I learned the word “rubbish” today.,我今天学会了单词“rubbish”（垃圾，废物）。
+northwest,northwest,/ˌnɔrθˈwɛst/,/ˌnɔrθˈwɛst/,A2,society,adj. 西北的 | n. 西北 | adv. 在西北,I learned the word “northwest” today.,我今天学会了单词“northwest”（西北的）。
+presenter,presenter,/ˈprɛzəntər/,/ˈprɛzəntər/,A2,daily,n. 提出者,I learned the word “presenter” today.,我今天学会了单词“presenter”（提出者）。
+surprise,surprise,/səˈpraɪz/,/səˈpraɪz/,A2,travel,n. 惊奇，诧异 | adj. 令人惊讶的 | vt. 使惊奇,I learned the word “surprise” today.,我今天学会了单词“surprise”（惊奇，诧异）。
+understood,understood,/ˌəndərˈstʊd/,/ˌəndərˈstʊd/,A2,education,v. 明白 | adj. 被充分理解的,I learned the word “understood” today.,我今天学会了单词“understood”（明白）。
+space-travel,space travel,/speɪs ˈtrævəl/,/speɪs ˈtrævəl/,A2,travel,un. 宇宙飞行 | 太空旅行,We often say “space travel” in class.,课堂上常说“un. 宇宙飞行”。
+treasure,treasure,/ˈtrɛʒər/,/ˈtrɛʒər/,A2,daily,n. 财富，财产 | vt. 珍爱,I learned the word “treasure” today.,我今天学会了单词“treasure”（财富，财产）。
+spaceship,spaceship,/ˈspeɪsˌʃɪp/,/ˈspeɪsˌʃɪp/,A2,science,n. 宇宙飞船,I learned the word “spaceship” today.,我今天学会了单词“spaceship”（宇宙飞船）。
+improve,improve,/ˌɪmˈpruv/,/ˌɪmˈpruv/,A2,daily,vt. 改善，增进 | vi. 增加,I learned the word “improve” today.,我今天学会了单词“improve”（改善，增进）。
+humorous,humorous,/ˈhjumərəs/,/ˈhjumərəs/,A2,nature,adj. 诙谐的，幽默的,I learned the word “humorous” today.,我今天学会了单词“humorous”（诙谐的，幽默的）。
+relaxing,relaxing,/rɪˈlæksɪŋ/,/rɪˈlæksɪŋ/,A2,education,v. 放松 | adj. 令人轻松的,I learned the word “relaxing” today.,我今天学会了单词“relaxing”（放松）。
+nature-park,nature park,/ˈneɪʧər pɑrk/,/ˈneɪʧər pɑrk/,A2,nature,自然公园,We often say “nature park” in class.,课堂上常说“自然公园”。
+message,message,/ˈmɛsɪʤ/,/ˈmɛsɪʤ/,A2,nature,n. 消息 | vi. 报信，报告 | vt. 通知,I learned the word “message” today.,我今天学会了单词“message”（消息）。
+toothache,toothache,,,A2,health,n. 牙痛,I learned the word “toothache” today.,我今天学会了单词“toothache”（牙痛）。
+temperature,temperature,/ˈtɛmpərəʧər/,/ˈtɛmpərəʧər/,A2,nature,n. 温度,I learned the word “temperature” today.,我今天学会了单词“temperature”（温度）。
+look-up,look up,/lʊk əp/,/lʊk əp/,A2,society,v. 查找 | 向上看,We often say “look up” in class.,课堂上常说“查找”。
+count-down,count down,/kaʊnt daʊn/,/kaʊnt daʊn/,A2,travel,"na. (9,8,7,… 0 地)倒数 | 倒计时",We often say “count down” in class.,"课堂上常说“na. (9,8,7,… 0 地”。"
+helpline,helpline,,,A2,society,n. 热线服务电话,I learned the word “helpline” today.,我今天学会了单词“helpline”（热线服务电话）。
+dreamed,dreamed,/drimd/,/drimd/,A2,education,梦想，幻想（dream的过去分词）,I learned the word “dreamed” today.,我今天学会了单词“dreamed”（梦想，幻想（dream的）。
+write-down,write down,/raɪt daʊn/,/raɪt daʊn/,A2,education,na. 记下来 | 写下,We often say “write down” in class.,课堂上常说“na. 记下来”。
+no-idea,no idea,/noʊ aɪˈdiə/,/noʊ aɪˈdiə/,A2,thinking,不知道,We often say “no idea” in class.,课堂上常说“不知道”。
+journey,journey,/ˈʤərni/,/ˈʤərni/,A2,thinking,n. 旅行 | vi. 旅行,I learned the word “journey” today.,我今天学会了单词“journey”（旅行）。
+mention,mention,/ˈmɛnʃən/,/ˈmɛnʃən/,A2,travel,vt. 提到，谈到 | n. 提及，说起,I learned the word “mention” today.,我今天学会了单词“mention”（提到，谈到）。
+excellent,excellent,/ˈɛksələnt/,/ˈɛksələnt/,A2,travel,adj. 卓越的,I learned the word “excellent” today.,我今天学会了单词“excellent”（卓越的）。
+encourage,encourage,/ɪnˈkərəʤ/,/ɪnˈkərəʤ/,A2,daily,vt. 鼓励，怂恿,I learned the word “encourage” today.,我今天学会了单词“encourage”（鼓励，怂恿）。
+favourite,favourite,/ˈfeɪvərɪt/,/ˈfeɪvərɪt/,A2,education,n. 特别喜爱的人（或物） | adj. 特别受喜爱的,I learned the word “favourite” today.,我今天学会了单词“favourite”（特别喜爱的人（或物））。
+especially,especially,/əˈspɛʃəli/,/əˈspɛʃəli/,A2,nature,adv. 特别,I learned the word “especially” today.,我今天学会了单词“especially”（特别）。
+countryside,countryside,/ˈkəntriˌsaɪd/,/ˈkəntriˌsaɪd/,A2,daily,n. 农村，乡下,I learned the word “countryside” today.,我今天学会了单词“countryside”（农村，乡下）。
+schoolbag,schoolbag,,,A2,education,n. 书包,I learned the word “schoolbag” today.,我今天学会了单词“schoolbag”（书包）。
+friendship,friendship,/ˈfrɛndʃɪp/,/ˈfrɛndʃɪp/,A2,society,n. 友谊,I learned the word “friendship” today.,我今天学会了单词“friendship”（友谊）。
+far-from,far from,/fɑr frəm/,/fɑr frəm/,A2,travel,na. 远离 | 远非,We often say “far from” in class.,课堂上常说“na. 远离”。
+enjoyable,enjoyable,/ˌɛnˈʤɔɪəbəl/,/ˌɛnˈʤɔɪəbəl/,A2,thinking,adj. 快乐的,I learned the word “enjoyable” today.,我今天学会了单词“enjoyable”（快乐的）。
+crowded,crowded,/ˈkraʊdɪd/,/ˈkraʊdɪd/,A2,education,adj. 拥挤的 | v. 拥挤（crowd的过去分词）,I learned the word “crowded” today.,我今天学会了单词“crowded”（拥挤的）。
+homestay,homestay,,,A2,thinking,n. （在国外的访问者）在当地居民家居住的时期,I learned the word “homestay” today.,我今天学会了单词“homestay”（（在国外的访问者）在当地）。
+tea-party,tea party,/ti ˈpɑrti/,/ti ˈpɑrti/,A2,arts,n. 茶话会 | 茶党,We often say “tea party” in class.,课堂上常说“茶话会”。
+understand,understand,/ˌəndərˈstænd/,/ˌəndərˈstænd/,A2,travel,vi. 理解 | vt. 理解,I learned the word “understand” today.,我今天学会了单词“understand”（理解）。
+culture,culture,/ˈkəlʧər/,/ˈkəlʧər/,A2,education,n. 文化，文明 | vt. 培养（等于cultivate）,I learned the word “culture” today.,我今天学会了单词“culture”（文化，文明）。
+no-problem,no problem,/noʊ ˈprɑbləm/,/noʊ ˈprɑbləm/,A2,education,n. 没问题 | 没有问题,We often say “no problem” in class.,课堂上常说“没问题”。
+illness,illness,/ˈɪlnəs/,/ˈɪlnəs/,A2,health,n. 病,I learned the word “illness” today.,我今天学会了单词“illness”（病）。
+headache,headache,/ˈhɛˌdeɪk/,/ˈhɛˌdeɪk/,A2,travel,n. 头痛,I learned the word “headache” today.,我今天学会了单词“headache”（头痛）。
+warm-up,warm up,/wɔrm əp/,/wɔrm əp/,A2,sport,na. 加热 | 热身,We often say “warm up” in class.,课堂上常说“na. 加热”。
+at-last,at last,/æt læst/,/æt læst/,A2,travel,na. 终于 | 最后,We often say “at last” in class.,课堂上常说“na. 终于”。
+join-in,join in,/ʤɔɪn ɪn/,/ʤɔɪn ɪn/,A2,education,na. 参加 | 加入,We often say “join in” in class.,课堂上常说“na. 参加”。
+imagine,imagine,/ˌɪˈmæʤən/,/ˌɪˈmæʤən/,A2,education,vi. 想像 | vt. 想像,I learned the word “imagine” today.,我今天学会了单词“imagine”（想像）。
+suggestion,suggestion,/səˈʤɛsʧən/,/səˈʤɛsʧən/,A2,nature,n. 建议,I learned the word “suggestion” today.,我今天学会了单词“suggestion”（建议）。
+close-down,close down,/kloʊz daʊn/,/kloʊz daʊn/,A2,education,v. 关闭 | 停业,We often say “close down” in class.,课堂上常说“关闭”。
+at-school,at school,/æt skul/,/æt skul/,A2,education,na. 在学校 | 在上学,We often say “at school” in class.,课堂上常说“na. 在学校”。
+project,project,/ˈprɑʤɛkt/,/ˈprɑʤɛkt/,A2,daily,n. 工程 | vt. 设计 | vi. 设计,I learned the word “project” today.,我今天学会了单词“project”（工程）。
+actress,actress,/ˈæktrəs/,/ˈæktrəs/,A2,education,n. 女演员,I learned the word “actress” today.,我今天学会了单词“actress”（女演员）。
+germany,Germany,/ˈʤərməni/,/ˈʤərməni/,A2,society,n. 德国,I learned the word “Germany” today.,我今天学会了单词“Germany”（德国）。
+video-game,video game,/ˈvɪdioʊ geɪm/,/ˈvɪdioʊ geɪm/,A2,sport,n. 电子游戏 | 视频游戏,We often say “video game” in class.,课堂上常说“电子游戏”。
+volleyball,volleyball,/ˈvɑliˌbɔl/,/ˈvɑliˌbɔl/,A2,sport,n. 排球,I learned the word “volleyball” today.,我今天学会了单词“volleyball”（排球）。
+ancient,ancient,/ˈeɪnʧənt/,/ˈeɪnʧənt/,A2,history,n. 古代人 | adj. 古代的,I learned the word “ancient” today.,我今天学会了单词“ancient”（古代人）。
+southeast,southeast,/ˌsaʊˈθist/,/ˌsaʊˈθist/,A2,daily,n. 东南 | adj. 东南的 | adv. 来自东南,I learned the word “southeast” today.,我今天学会了单词“southeast”（东南）。
+sunglasses,sunglasses,/ˈsənˌglæsɪz/,/ˈsənˌglæsɪz/,A2,society,n. 太阳镜,I learned the word “sunglasses” today.,我今天学会了单词“sunglasses”（太阳镜）。
+make-up,make up,/meɪk əp/,/meɪk əp/,A2,daily,na. 弥补 | 组成,We often say “make up” in class.,课堂上常说“na. 弥补”。
+in-time,in time,/ɪn taɪm/,/ɪn taɪm/,A2,thinking,na. 经过一段时间以后 | 及时,We often say “in time” in class.,课堂上常说“na. 经过一段时间以后”。
+sentence,sentence,/ˈsɛntəns/,/ˈsɛntəns/,A2,education,n. 句子，命题 | vt. 判决，宣判,I learned the word “sentence” today.,我今天学会了单词“sentence”（句子，命题）。
+in-peace,in peace,/ɪn pis/,/ɪn pis/,A2,society,na. 平平安安 | 和平地,We often say “in peace” in class.,课堂上常说“na. 平平安安”。
+baseball,baseball,/ˈbeɪsˈbɔl/,/ˈbeɪsˈbɔl/,A2,sport,n. 棒球,I learned the word “baseball” today.,我今天学会了单词“baseball”（棒球）。
+passport,passport,/ˈpæˌspɔrt/,/ˈpæˌspɔrt/,A2,sport,n. 护照，通行证,I learned the word “passport” today.,我今天学会了单词“passport”（护照，通行证）。
+shoulder,shoulder,/ˈʃoʊldər/,/ˈʃoʊldər/,A2,nature,n. 肩，肩膀 | vi. 用肩推挤，用肩顶 | vt. 肩负，承担,I learned the word “shoulder” today.,我今天学会了单词“shoulder”（肩，肩膀）。
+sailing,sailing,/ˈseɪlɪŋ/,/ˈseɪlɪŋ/,A2,travel,n. 航行，航海 | v. 航行，起航（sail的现在分词形式） | adj. 航行的,I learned the word “sailing” today.,我今天学会了单词“sailing”（航行，航海）。
+problem,problem,/ˈprɑbləm/,/ˈprɑbləm/,A2,education,n. 难题 | adj. 成问题的,I learned the word “problem” today.,我今天学会了单词“problem”（难题）。
+introduce,introduce,/ˌɪntrəˈdus/,/ˌɪntrəˈdus/,A2,daily,vt. 介绍,I learned the word “introduce” today.,我今天学会了单词“introduce”（介绍）。
+listener,listener,/ˈlɪsənər/,/ˈlɪsənər/,A2,thinking,n. 听众 | 倾听者,I learned the word “listener” today.,我今天学会了单词“listener”（听众）。
+impossible,impossible,/ˌɪmˈpɑsəbəl/,/ˌɪmˈpɑsəbəl/,A2,education,n. 不可能 | adj. 不可能的,I learned the word “impossible” today.,我今天学会了单词“impossible”（不可能）。
+probably,probably,/ˈprɑbəˌbli/,/ˈprɑbəˌbli/,A2,thinking,adv. 大概,I learned the word “probably” today.,我今天学会了单词“probably”（大概）。
+billion,billion,/ˈbɪljən/,/ˈbɪljən/,A2,health,num. 十亿 | n. 十亿 | adj. 十亿的,I learned the word “billion” today.,我今天学会了单词“billion”（十亿）。
+medical,medical,/ˈmɛdɪkəl/,/ˈmɛdɪkəl/,A2,thinking,adj. 医学的 | n. 医生,I learned the word “medical” today.,我今天学会了单词“medical”（医学的）。
+after-school,after-school,,,A2,education,adj. 课后的，课外的,We often say “after-school” in class.,课堂上常说“课后的，课外的”。
+feel-awful,feel awful,/fil ˈɔfəl/,/fil ˈɔfəl/,A2,emotion,感觉难受,We often say “feel awful” in class.,课堂上常说“感觉难受”。
+interview,interview,/ˈɪntərvˌju/,/ˈɪntərvˌju/,A2,thinking,n. 接见，采访 | vt. 采访,I learned the word “interview” today.,我今天学会了单词“interview”（接见，采访）。
+condition,condition,/kənˈdɪʃən/,/kənˈdɪʃən/,A2,travel,n. 条件 | vt. 决定,I learned the word “condition” today.,我今天学会了单词“condition”（条件）。
+separate,separate,/ˈsɛpərˌeɪt/,/ˈsɛpərˌeɪt/,A2,daily,n. .分开 | adj. 单独的 | vt. 使分离,I learned the word “separate” today.,我今天学会了单词“separate”（.分开）。
+patient,patient,/ˈpeɪʃənt/,/ˈpeɪʃənt/,A2,daily,n. 病人 | adj. 有耐心的，能容忍的,I learned the word “patient” today.,我今天学会了单词“patient”（病人）。
+smelled,smelled,/smɛld/,/smɛld/,A2,education,v. 嗅，闻( smell的过去式 ),I learned the word “smelled” today.,我今天学会了单词“smelled”（嗅，闻( smell的过）。
+pleased,pleased,/plizd/,/plizd/,A2,education,adj. 高兴的 | v. 满意,I learned the word “pleased” today.,我今天学会了单词“pleased”（高兴的）。
+all-over,all over,/ɔl ˈoʊvər/,/ɔl ˈoʊvər/,A2,education,adj. 满 | n. 全花织物 | 到处,We often say “all over” in class.,课堂上常说“满”。
+against,against,/əˈgɛnst/,/əˈgɛnst/,A2,thinking,prep. 反对，违反 | adj. 不利的,I learned the word “against” today.,我今天学会了单词“against”（反对，违反）。
+on-air,on air,/ɔn ɛr/,/ɔn ɛr/,A2,education,adj. 不通过电缆传输的 | 爱情正在直播,We often say “on air” in class.,课堂上常说“不通过电缆传输的”。
+in-danger,in danger,/ɪn ˈdeɪnʤər/,/ɪn ˈdeɪnʤər/,A2,daily,na. 在危险中 | 垂危,We often say “in danger” in class.,课堂上常说“na. 在危险中”。
+twentieth,twentieth,/tˈwɛnˌtiɛθ/,/tˈwɛnˌtiɛθ/,A2,travel,n. 二十分之一 | num. 第二十 | adj. 第二十的,I learned the word “twentieth” today.,我今天学会了单词“twentieth”（二十分之一）。
+perhaps,perhaps,/pərˈhæps/,/pərˈhæps/,A2,education,n. 假定 | adv. 或许,I learned the word “perhaps” today.,我今天学会了单词“perhaps”（假定）。
+national,national,/ˈnæʃənəl/,/ˈnæʃənəl/,A2,travel,adj. 国家的 | n. 国民,I learned the word “national” today.,我今天学会了单词“national”（国家的）。
+glasses,glasses,/ˈglæsɪz/,/ˈglæsɪz/,A2,daily,n. 眼镜 | v. 把…装入玻璃容器内,I learned the word “glasses” today.,我今天学会了单词“glasses”（眼镜）。
+point-out,point out,/pɔɪnt aʊt/,/pɔɪnt aʊt/,A2,travel,na. 指出 | 指明,We often say “point out” in class.,课堂上常说“na. 指出”。
+trouble,trouble,/ˈtrəbəl/,/ˈtrəbəl/,A2,society,n. 麻烦 | vt. 麻烦 | vi. 费心，烦恼,I learned the word “trouble” today.,我今天学会了单词“trouble”（麻烦）。
+first-prize,first prize,/fərst praɪz/,/fərst praɪz/,A2,nature,n. 头奖 | 一等奖,We often say “first prize” in class.,课堂上常说“头奖”。
+fan-club,fan club,/fæn kləb/,/fæn kləb/,A2,sport,n. …迷俱乐部 | 粉丝俱乐部,We often say “fan club” in class.,课堂上常说“…迷俱乐部”。
+mistake,mistake,/mɪˈsteɪk/,/mɪˈsteɪk/,A2,thinking,n. 错误 | vt. 弄错 | vi. 弄错,I learned the word “mistake” today.,我今天学会了单词“mistake”（错误）。
+example,example,/ɪgˈzæmpəl/,/ɪgˈzæmpəl/,A2,education,n. 例子 | vt. 作为…的例子 | vi. 举例,I learned the word “example” today.,我今天学会了单词“example”（例子）。
+environment,environment,/ɪnˈvaɪrənmənt/,/ɪnˈvaɪrənmənt/,A2,environment,n. 环境，外界,I learned the word “environment” today.,我今天学会了单词“environment”（环境，外界）。
+head-teacher,head teacher,/hɛd ˈtiʧər/,/hɛd ˈtiʧər/,A2,education,n. 校长 | 班主任,We often say “head teacher” in class.,课堂上常说“校长”。
+southwest,southwest,/ˌsaʊθˈwɛst/,/ˌsaʊθˈwɛst/,A2,travel,n. 西南方 | adj. 西南的 | adv. 往西南,I learned the word “southwest” today.,我今天学会了单词“southwest”（西南方）。
+first-aid,first aid,/fərst eɪd/,/fərst eɪd/,A2,travel,n. 急救 | 急救方法,We often say “first aid” in class.,课堂上常说“急救”。
+someone,someone,/ˈsəmˌwən/,/ˈsəmˌwən/,A2,daily,pron. 有人，某人,I learned the word “someone” today.,我今天学会了单词“someone”（有人，某人）。
+silence,silence,/ˈsaɪləns/,/ˈsaɪləns/,A2,society,n. 沉默 | vt. 使沉默 | int. 安静！,I learned the word “silence” today.,我今天学会了单词“silence”（沉默）。
+kilometre,kilometre,/ˌkɪˈlɔˌmətər/,/ˌkɪˈlɔˌmətər/,A2,nature,n. 公里,I learned the word “kilometre” today.,我今天学会了单词“kilometre”（公里）。
+terrible,terrible,/ˈtɛrəbəl/,/ˈtɛrəbəl/,A2,travel,adj. 可怕的 | adv. 很，非常,I learned the word “terrible” today.,我今天学会了单词“terrible”（可怕的）。
+make-sure,make sure,/meɪk ʃʊr/,/meɪk ʃʊr/,A2,nature,na. 尽力做到 | 确保,We often say “make sure” in class.,课堂上常说“na. 尽力做到”。
+stomach,stomach,/ˈstəmək/,/ˈstəmək/,A2,nature,n. 胃 | vt. 忍受 | vi. 忍受,I learned the word “stomach” today.,我今天学会了单词“stomach”（胃）。
+attention,attention,/əˈtɛnʃən/,/əˈtɛnʃən/,A2,education,n. 注意力,I learned the word “attention” today.,我今天学会了单词“attention”（注意力）。
+think-about,think about,/θɪŋk əˈbaʊt/,/θɪŋk əˈbaʊt/,A2,nature,un. 思考 | 考虑,We often say “think about” in class.,课堂上常说“un. 思考”。
+tidy-up,tidy up,/ˈtaɪdi əp/,/ˈtaɪdi əp/,A2,society,v. 整理干净 | 收拾,We often say “tidy up” in class.,课堂上常说“整理干净”。
+hang-on,hang on,/hæŋ ɔn/,/hæŋ ɔn/,A2,society,v. 坚守 | 坚持下去,We often say “hang on” in class.,课堂上常说“坚守”。
+in-silence,in silence,/ɪn ˈsaɪləns/,/ɪn ˈsaɪləns/,A2,thinking,na. 沉默着 | 沉默地,We often say “in silence” in class.,课堂上常说“na. 沉默着”。
+somebody,somebody,/ˈsəmˌbɑdi/,/ˈsəmˌbɑdi/,A2,society,n. 大人物 | pron. 有人,I learned the word “somebody” today.,我今天学会了单词“somebody”（大人物）。
+spelling,spelling,/ˈspɛlɪŋ/,/ˈspɛlɪŋ/,A2,education,n. 拼写 | v. 拼写,I learned the word “spelling” today.,我今天学会了单词“spelling”（拼写）。
+include,include,/ˌɪnˈklud/,/ˌɪnˈklud/,A2,society,vt. 包含，包括,I learned the word “include” today.,我今天学会了单词“include”（包含，包括）。
+cartoon,cartoon,/kɑrˈtun/,/kɑrˈtun/,A2,arts,n. 卡通片， 动画片 | vt. 为…画漫画 | vi. 画漫画,I learned the word “cartoon” today.,我今天学会了单词“cartoon”（卡通片， 动画片）。
+mountain,mountain,/ˈmaʊntən/,/ˈmaʊntən/,A2,nature,n. 山,I learned the word “mountain” today.,我今天学会了单词“mountain”（山）。
+college,college,/ˈkɑlɪʤ/,/ˈkɑlɪʤ/,A2,society,n. 大学,I learned the word “college” today.,我今天学会了单词“college”（大学）。
+population,population,/ˌpɑpjəˈleɪʃən/,/ˌpɑpjəˈleɪʃən/,A2,daily,n. 人口,I learned the word “population” today.,我今天学会了单词“population”（人口）。
+possible,possible,/ˈpɑsəbəl/,/ˈpɑsəbəl/,A2,education,n. 可能性 | adj. 可能的,I learned the word “possible” today.,我今天学会了单词“possible”（可能性）。
+describe,describe,/dɪˈskraɪb/,/dɪˈskraɪb/,A2,travel,vt. 描述，形容,I learned the word “describe” today.,我今天学会了单词“describe”（描述，形容）。
+scientist,scientist,/ˈsaɪəntɪst/,/ˈsaɪəntɪst/,A2,thinking,n. 科学家,I learned the word “scientist” today.,我今天学会了单词“scientist”（科学家）。
+teahouse,teahouse,,,A2,daily,n. 茶馆,I learned the word “teahouse” today.,我今天学会了单词“teahouse”（茶馆）。
+although,although,/ˌɔlˈðoʊ/,/ˌɔlˈðoʊ/,A2,education,conj. 尽管,I learned the word “although” today.,我今天学会了单词“although”（尽管）。
+fill-out,fill out,/fɪl aʊt/,/fɪl aʊt/,A2,health,na. 填写(表格等) | 填表,We often say “fill out” in class.,课堂上常说“na. 填写(表格等)”。
+nervous,nervous,/ˈnərvəs/,/ˈnərvəs/,A2,nature,adj. 神经的,I learned the word “nervous” today.,我今天学会了单词“nervous”（神经的）。
+practice,practice,/ˈpræktɪs/,/ˈpræktɪs/,A2,education,n. 实践 | vt. 练习 | vi. 练习,I learned the word “practice” today.,我今天学会了单词“practice”（实践）。
+pretty-good,pretty good,/ˈprɪti gʊd/,/ˈprɪti gʊd/,A2,travel,非常好,We often say “pretty good” in class.,课堂上常说“非常好”。
+solar-system,solar system,/ˈsoʊlər ˈsɪstəm/,/ˈsoʊlər ˈsɪstəm/,A2,nature,n. 太阳系 | 太阳能系统,We often say “solar system” in class.,课堂上常说“太阳系”。
+sweet-tooth,sweet tooth,/swit tuθ/,/swit tuθ/,A2,health,n. (指人)爱吃甜食的 | 喜好甜食,We often say “sweet tooth” in class.,课堂上常说“(指人)爱吃甜食的”。
+private,private,/ˈpraɪvət/,/ˈpraɪvət/,A2,nature,n. 列兵 | adj. 私人的,I learned the word “private” today.,我今天学会了单词“private”（列兵）。
+million,million,/ˈmɪljən/,/ˈmɪljən/,A2,health,n. 百万 | adj. 百万的 | num. 百万,I learned the word “million” today.,我今天学会了单词“million”（百万）。
+earthquake,earthquake,/ˈərθkˌweɪk/,/ˈərθkˌweɪk/,A2,nature,n. 地震,I learned the word “earthquake” today.,我今天学会了单词“earthquake”（地震）。
+already,already,/ɔˈrɛdi/,/ɔˈrɛdi/,A2,education,adv. 已经，早已,I learned the word “already” today.,我今天学会了单词“already”（已经，早已）。
+medicine,medicine,/ˈmɛdəsən/,/ˈmɛdəsən/,A2,health,n. 药 | vt. 用药物治疗,I learned the word “medicine” today.,我今天学会了单词“medicine”（药）。
+certain,certain,/ˈsərtən/,/ˈsərtən/,A2,travel,adj. 某一 | pron. 某些,I learned the word “certain” today.,我今天学会了单词“certain”（某一）。
+exercise,exercise,/ˈɛksərˌsaɪz/,/ˈɛksərˌsaɪz/,A2,society,n. 运动 | vt. 锻炼 | vi. 运动,I learned the word “exercise” today.,我今天学会了单词“exercise”（运动）。
+interested,interested,/ˈɪntəˌrɛstɪd/,/ˈɪntəˌrɛstɪd/,A2,society,v. 使…感兴趣（interest的过去分词） | adj. 感兴趣的,I learned the word “interested” today.,我今天学会了单词“interested”（使…感兴趣（intere）。
+stranger,stranger,/ˈstreɪnʤər/,/ˈstreɪnʤər/,A2,daily,n. 陌生人,I learned the word “stranger” today.,我今天学会了单词“stranger”（陌生人）。
+situation,situation,/ˌsɪʧuˈeɪʃən/,/ˌsɪʧuˈeɪʃən/,A2,society,n. 情况,I learned the word “situation” today.,我今天学会了单词“situation”（情况）。
+careless,careless,/ˈkɛrlɛs/,/ˈkɛrlɛs/,A2,society,adj. 粗心的,I learned the word “careless” today.,我今天学会了单词“careless”（粗心的）。
+neither,neither,/ˈniðər/,/ˈniðər/,A2,nature,conj. 也不 | adv. 两个都不 | adj. 两者都不的,I learned the word “neither” today.,我今天学会了单词“neither”（也不）。
+dictionary,dictionary,/ˈdɪkʃəˌnɛri/,/ˈdɪkʃəˌnɛri/,A2,travel,n. 字典,I learned the word “dictionary” today.,我今天学会了单词“dictionary”（字典）。
+accident,accident,/ˈæksədənt/,/ˈæksədənt/,A2,education,n. 事故,I learned the word “accident” today.,我今天学会了单词“accident”（事故）。
+home-town,home town,/hoʊm taʊn/,/hoʊm taʊn/,A2,city,家乡,We often say “home town” in class.,课堂上常说“家乡”。
+gentleman,gentleman,/ˈʤɛnəlmən/,/ˈʤɛnəlmən/,A2,travel,n. 先生,I learned the word “gentleman” today.,我今天学会了单词“gentleman”（先生）。
+explain,explain,/ɪkˈspleɪn/,/ɪkˈspleɪn/,A2,education,v. 说明,I learned the word “explain” today.,我今天学会了单词“explain”（说明）。
+take-part,take part,/teɪk pɑrt/,/teɪk pɑrt/,A2,arts,na. 参与 | 参加课后俱乐部,We often say “take part” in class.,课堂上常说“na. 参与”。
+experience,experience,/ɪkˈspɪriəns/,/ɪkˈspɪriəns/,A2,nature,n. 经验 | vt. 经验,I learned the word “experience” today.,我今天学会了单词“experience”（经验）。
+increase,increase,/ˌɪnˈkris/,/ˌɪnˈkris/,A2,daily,n. 增加，增长 | vt. 增加，加大 | vi. 增加，增大,I learned the word “increase” today.,我今天学会了单词“increase”（增加，增长）。
+university,university,/ˌjunəˈvərsəti/,/ˌjunəˈvərsəti/,A2,society,n. 大学,I learned the word “university” today.,我今天学会了单词“university”（大学）。
+suddenly,suddenly,/ˈsədənli/,/ˈsədənli/,A2,society,adv. 突然地,I learned the word “suddenly” today.,我今天学会了单词“suddenly”（突然地）。
+satisfy,satisfy,/ˈsætɪsˌfaɪ/,/ˈsætɪsˌfaɪ/,A2,travel,vi. 令人满意 | vt. 满足,I learned the word “satisfy” today.,我今天学会了单词“satisfy”（令人满意）。
+valuable,valuable,/ˈvæljəbəl/,/ˈvæljəbəl/,A2,society,n. 贵重物品 | adj. 有价值的,I learned the word “valuable” today.,我今天学会了单词“valuable”（贵重物品）。
+come-out,come out,/kəm aʊt/,/kəm aʊt/,A2,society,na. 出来 | 出现,We often say “come out” in class.,课堂上常说“na. 出来”。
+suggest,suggest,/səˈʤɛst/,/səˈʤɛst/,A2,daily,vt. 提议，建议,I learned the word “suggest” today.,我今天学会了单词“suggest”（提议，建议）。
+all-the-time,all the time,/ɔl ðə taɪm/,/ɔl ðə taɪm/,B1,thinking,na. 始终 | 一直,We often say “all the time” in class.,课堂上常说“na. 始终”。
+pronunciation,pronunciation,/prəˌnənsiˈeɪʃən/,/prəˌnənsiˈeɪʃən/,B1,thinking,n. 发音,I learned the word “pronunciation” today.,我今天学会了单词“pronunciation”（发音）。
+side-by-side,side by side,/saɪd baɪ saɪd/,/saɪd baɪ saɪd/,B1,nature,na. 并排着 | 肩并肩,We often say “side by side” in class.,课堂上常说“na. 并排着”。
+can-t-help-doing-sth,can't help doing sth.,,,B1,society,（暂无释义）,We often say “can't help doing sth.” in class.,课堂上常说“（暂无释义）”。
+day-by-day,day by day,/deɪ baɪ deɪ/,/deɪ baɪ deɪ/,B1,education,na. “day after day”的变体 | 逐日,We often say “day by day” in class.,课堂上常说“na. “day after d”。
+catch-a-cold,catch a cold,/kæʧ ə koʊld/,/kæʧ ə koʊld/,B1,travel,n. 感冒 | 伤风,We often say “catch a cold” in class.,课堂上常说“感冒”。
+cheer-on,cheer ... on,/ʧɪr ɔn/,/ʧɪr ɔn/,B1,sport,un. 欢呼 | 向…欢呼,We often say “cheer ... on” in class.,课堂上常说“un. 欢呼”。
+at-the-top-of,at the top of ...,/æt ðə tɔp əv/,/æt ðə tɔp əv/,B1,education,（暂无释义）,We often say “at the top of ...” in class.,课堂上常说“（暂无释义）”。
+wake-sb-up,wake sb. up,,,B1,daily,na. 同“wake” | 唤醒,We often say “wake sb. up” in class.,课堂上常说“na. 同“wake””。
+be-proud-of,be proud of ...,/bi praʊd əv/,/bi praʊd əv/,B1,nature,（暂无释义）,We often say “be proud of ...” in class.,课堂上常说“（暂无释义）”。
+pay-attention,pay attention,/peɪ əˈtɛnʃən/,/peɪ əˈtɛnʃən/,B1,nature,v. 注意 | 专心,We often say “pay attention” in class.,课堂上常说“注意”。
+black-and-white,black-and-white,,,B1,education,adj. 印刷的,We often say “black-and-white” in class.,课堂上常说“印刷的”。
+agree-with-sb,agree with sb.,,,B1,thinking,（暂无释义）,We often say “agree with sb.” in class.,课堂上常说“（暂无释义）”。
+keep-clear-of,keep clear of ...,/kip klɪr əv/,/kip klɪr əv/,B1,travel,（暂无释义）,We often say “keep clear of ...” in class.,课堂上常说“（暂无释义）”。
+have-a-try,have a try,/hæv ə traɪ/,/hæv ə traɪ/,B1,education,v. 试一试 | 尝试,We often say “have a try” in class.,课堂上常说“试一试”。
+as-a-result,as a result,/ɛz ə rɪˈzəlt/,/ɛz ə rɪˈzəlt/,B1,travel,adv. 结果 | 因此,We often say “as a result” in class.,课堂上常说“结果”。
+make-a-list,make a list,/meɪk ə lɪst/,/meɪk ə lɪst/,B1,thinking,na. 在名册中 | 列清单,We often say “make a list” in class.,课堂上常说“na. 在名册中”。
+international,international,/ˌɪnərˈnæʃənɑl/,/ˌɪnərˈnæʃənɑl/,B1,travel,n. 国际组织 | adj. 国际的,I learned the word “international” today.,我今天学会了单词“international”（国际组织）。
+a-chess-set,a chess set,/ə ʧɛs sɛt/,/ə ʧɛs sɛt/,B1,nature,（暂无释义）,We often say “a chess set” in class.,课堂上常说“（暂无释义）”。
+once-or-twice,once or twice,/wəns ər twaɪs/,/wəns ər twaɪs/,B1,education,na. 一两次 | 我误入歧途,We often say “once or twice” in class.,课堂上常说“na. 一两次”。
+win-the-heart-of-sb,win the heart of sb.,,,B1,arts,（暂无释义）,We often say “win the heart of sb.” in class.,课堂上常说“（暂无释义）”。
+be-famous-for,be famous for,/bi ˈfeɪməs fər/,/bi ˈfeɪməs fər/,B1,society,v. 因…出名 | 因…而出名,We often say “be famous for” in class.,课堂上常说“因…出名”。
+at-the-bottom-of,at the bottom of ...,/æt ðə ˈbɑtəm əv/,/æt ðə ˈbɑtəm əv/,B1,nature,（暂无释义）,We often say “at the bottom of ...” in class.,课堂上常说“（暂无释义）”。
+at-the-end-of,at the end of ...,/æt ðə ɛnd əv/,/æt ðə ɛnd əv/,B1,nature,（暂无释义）,We often say “at the end of ...” in class.,课堂上常说“（暂无释义）”。
+conversation,conversation,/ˌkɑnvərˈseɪʃən/,/ˌkɑnvərˈseɪʃən/,B1,education,n. 交谈，会话,I learned the word “conversation” today.,我今天学会了单词“conversation”（交谈，会话）。
+stay-in-touch,stay in touch,/steɪ ɪn təʧ/,/steɪ ɪn təʧ/,B1,daily,un. 比分咬得很紧 | 保持联系,We often say “stay in touch” in class.,课堂上常说“un. 比分咬得很紧”。
+from-time-to-time,from time to time,/frəm taɪm tɪ taɪm/,/frəm taɪm tɪ taɪm/,B1,travel,na. 时时 | 有时,We often say “from time to time” in class.,课堂上常说“na. 时时”。
+in-the-end,in the end,/ɪn ðə ɛnd/,/ɪn ðə ɛnd/,B1,nature,na. 终于 | 最后,We often say “in the end” in class.,课堂上常说“na. 终于”。
+what-s-wrong-with,What's wrong with ...?,/wəts rɔŋ wɪθ/,/wəts rɔŋ wɪθ/,B1,thinking,（暂无释义）,What's wrong with ...?,这句话在课本对话里很常见。
+in-order-to,in order to,/ɪn ˈɔrdər tɪ/,/ɪn ˈɔrdər tɪ/,B1,education,na. 为了 | 目的,We often say “in order to” in class.,课堂上常说“na. 为了”。
+make-a-mistake,make a mistake,/meɪk ə mɪˈsteɪk/,/meɪk ə mɪˈsteɪk/,B1,society,na. 犯错误 | 出错,We often say “make a mistake” in class.,课堂上常说“na. 犯错误”。
+orange-and-white,orange-and-white,,,B1,travel,橘白相间的,We often say “orange-and-white” in class.,课堂上常说“橘白相间的”。
+what-s-the-matter,What's the matter?,/wəts ðə ˈmætər/,/wəts ðə ˈmætər/,B1,health,怎么回事?怎么啦?,What's the matter?,这句话在课本对话里很常见。
+show-sb-around,show sb. around,,,B1,travel,v. 带…参观 | 带……参观,We often say “show sb. around” in class.,课堂上常说“带…参观”。
+have-a-look,have a look,/hæv ə lʊk/,/hæv ə lʊk/,B1,thinking,v. 看一看 | 看一下,We often say “have a look” in class.,课堂上常说“看一看”。
+at-the-same-time,at the same time,/æt ðə seɪm taɪm/,/æt ðə seɪm taɪm/,B1,society,na. 同时 | 然而,We often say “at the same time” in class.,课堂上常说“na. 同时”。
+sb-can-t-wait,sb. can't wait,,,B1,education,（暂无释义）,We often say “sb. can't wait” in class.,课堂上常说“（暂无释义）”。
+stay-in-touch-with-sb,stay in touch with sb.,,,B1,travel,（暂无释义）,We often say “stay in touch with sb.” in class.,课堂上常说“（暂无释义）”。
+fish-and-chips,fish and chips,/fɪʃ ənd ʧɪps/,/fɪʃ ənd ʧɪps/,B1,travel,n. 炸鱼加土豆条 | 炸鱼和薯条,We often say “fish and chips” in class.,课堂上常说“炸鱼加土豆条”。
+take-part-in-sth,take part in sth.,,,B1,arts,（暂无释义）,We often say “take part in sth.” in class.,课堂上常说“（暂无释义）”。
+fall-off,fall off ...,/fɔl ɔf/,/fɔl ɔf/,B1,society,（暂无释义）,We often say “fall off ...” in class.,课堂上常说“（暂无释义）”。
+take-sb-s-temperature,take sb.'s temperature,,,B1,society,（暂无释义）,We often say “take sb.'s temperature” in class.,课堂上常说“（暂无释义）”。
+for-the-first-time,for the first time,/fər ðə fərst taɪm/,/fər ðə fərst taɪm/,B1,nature,na. 第一次 | 首次,We often say “for the first time” in class.,课堂上常说“na. 第一次”。
+in-excellent-condition,in excellent condition,/ɪn ˈɛksələnt kənˈdɪʃən/,/ɪn ˈɛksələnt kənˈdɪʃən/,B1,travel,情况特别好,We often say “in excellent condition” in class.,课堂上常说“情况特别好”。

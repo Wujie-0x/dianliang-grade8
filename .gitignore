@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.local/
+.env
+.env.*
+!.env.example
+output/
+*.zip
+.DS_Store
+.playwright-cli/
+*.tsbuildinfo
+
+.venv/
+PUBLIC_MANIFEST.json
+
+# Upstream marketing media (not needed for grade-8 fork)
+docs/assets/demo.mp4
+docs/assets/launch.mp4
+docs/assets/launch-preview.webp
