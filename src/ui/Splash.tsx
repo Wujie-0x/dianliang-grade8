@@ -70,11 +70,17 @@ function targets(w: number, h: number, count: number) {
   g.lineTo(cx, cy + R * 0.1);
   g.closePath();
   g.fill();
-  const zh = Math.min(w * 0.3, s * 0.24);
+  const name = "点亮八年级";
+  let zh = Math.min(w * 0.16, s * 0.13);
   g.font = `700 ${zh}px "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif`;
   g.textAlign = "center";
   g.textBaseline = "middle";
-  g.fillText("词光", cx, cy + R + zh * 0.78);
+  const maxW = w * 0.86;
+  while (g.measureText(name).width > maxW && zh > 14) {
+    zh *= 0.92;
+    g.font = `700 ${zh}px "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif`;
+  }
+  g.fillText(name, cx, cy + R + zh * 0.9);
   const en = Math.max(18, zh * 0.24);
   g.font = `700 ${en}px "Fraunces Variable", Georgia, serif`;
   g.letterSpacing = `${en * 0.34}px`;
@@ -237,19 +243,19 @@ export function Splash({ onDone }: { onDone: () => void }) {
   }); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
-    <div className={`splash is-${phase} ${reduce ? "is-reduced" : ""}`} onClick={() => open()} role="dialog" aria-label="欢迎打开雅思大门，点击进入">
+    <div className={`splash is-${phase} ${reduce ? "is-reduced" : ""}`} onClick={() => open()} role="dialog" aria-label="欢迎来到点亮八年级，点击进入">
       <div className="door door-l" />
       <div className="door door-r" />
       <div className="splash-light" />
       <canvas ref={canvas} className="splash-canvas" aria-hidden="true" />
       {reduce && (
         <div className="splash-static">
-          <b>词光</b>
+          <b>点亮八年级</b>
           <small>GRADE 8</small>
         </div>
       )}
       <div className="splash-copy">
-        <p className="splash-tag">欢迎打开雅思大门</p>
+        <p className="splash-tag">欢迎来到点亮八年级</p>
         <p className="splash-hint">
           <span className="splash-key" />
           点击开启 · 按任意键

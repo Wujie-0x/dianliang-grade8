@@ -1,6 +1,7 @@
 import { Download, RotateCcw, Upload } from "lucide-react";
 import { useMemo, useRef } from "react";
 import { useAtlas } from "../atlas/context";
+import { ANNUAL_HREF } from "./About";
 import { isMastered } from "../store/srs";
 import { dayKey, exportBackup, importBackup, resetProgress, store, useStore, type Settings } from "../store/store";
 import { toast } from "../ui/Toast";
@@ -205,6 +206,16 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
           </div>
         </section>
       </div>
+
+      <section className="panel me-annual">
+        <div>
+          <h2 className="eyebrow">平价年卡</h2>
+          <p>爸爸给儿子做的平价背词工具。免费够用；年卡 ¥19.9 / 年，可选。</p>
+        </div>
+        <a className="btn btn-primary" href={ANNUAL_HREF}>
+          加微信开通年卡
+        </a>
+      </section>
     </div>
   );
 }

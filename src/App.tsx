@@ -6,7 +6,7 @@ import type { Atlas } from "./atlas/types";
 import { REPO_URL } from "./config";
 import { closeWord, currentLocation, go, openWord, useLocation, type Route } from "./lib/router";
 import { AtlasPage } from "./pages/Atlas";
-import { About } from "./pages/About";
+import { About, ANNUAL_HREF } from "./pages/About";
 import { Learn } from "./pages/Learn";
 import { Me } from "./pages/Me";
 import { Onboarding } from "./pages/Onboarding";
@@ -116,7 +116,9 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
   }, [focus]);
 
   useEffect(() => {
-    if (!word) window.scrollTo({ top: 0 });
+    if (word) return;
+    if (location.hash.includes("/about/annual")) return;
+    window.scrollTo({ top: 0 });
   }, [route.page]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const dark = theme === "dark" || (theme === "system" && matchMedia("(prefers-color-scheme: dark)").matches);
@@ -165,7 +167,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
         <footer className="footer">
           <Logo compact />
           <p>
-            外研版八年级 · 免费开源 ·{" "}
+            外研版八年级 · <a href={ANNUAL_HREF}>免费够用 · 年卡可选</a> ·{" "}
             <a href={REPO_URL} target="_blank" rel="noreferrer">
               GitHub
             </a>{" "}

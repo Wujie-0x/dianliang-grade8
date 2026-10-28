@@ -1,11 +1,30 @@
 import { ArrowUpRight, Database, Github, Heart } from "lucide-react";
+import { useEffect } from "react";
 import { useAtlas } from "../atlas/context";
 import { REPO_URL } from "../config";
+import { useLocation } from "../lib/router";
 
 const BASE = import.meta.env.BASE_URL;
 
+/** Deep link for the annual-pass section. Hash routes have no second fragment. */
+export const ANNUAL_HREF = "#/about/annual";
+
+function wantsAnnual(hash: string) {
+  return hash.includes("/about/annual");
+}
+
 export function About() {
   const atlas = useAtlas();
+  const loc = useLocation();
+
+  useEffect(() => {
+    if (!wantsAnnual(location.hash)) return;
+    const el = document.getElementById("annual");
+    if (!el) return;
+    const t = window.setTimeout(() => el.scrollIntoView({ behavior: "smooth", block: "start" }), 60);
+    return () => window.clearTimeout(t);
+  }, [loc]);
+
   return (
     <div className="page about">
       <header className="about-hero">
@@ -109,6 +128,54 @@ export function About() {
           </a>
         </section>
       </div>
+
+      <section className="panel annual" id="annual" aria-labelledby="annual-title">
+        <h2 className="eyebrow" id="annual-title">
+          平价年卡
+        </h2>
+        <p className="annual-story">爸爸给儿子做的平价背词工具。</p>
+        <p className="lede">
+          现在的全部词表、英美发音和 FSRS 复习永远免费，不用登录也能学完。年卡只是可选的支持，不会打断背词。
+        </p>
+        <p className="annual-price">
+          <b>¥19.9</b>
+          <span>/ 年</span>
+        </p>
+        <div className="annual-plans">
+          <article className="annual-plan">
+            <h3>免费，一直都在</h3>
+            <ul>
+              <li>现有全部词表</li>
+              <li>英美发音</li>
+              <li>FSRS 间隔复习</li>
+              <li>无需登录，学习路径没有付费墙</li>
+            </ul>
+          </article>
+          <article className="annual-plan is-paid">
+            <h3>年卡 ¥19.9 / 年</h3>
+            <ul>
+              <li>优先补全一词一画插画</li>
+              <li>加微信一对一答疑（使用问题/背词方法）</li>
+            </ul>
+          </article>
+        </div>
+        {/*
+          年卡由人工微信开通，没有账号，也没有支付 SDK。
+          换成真实物料时：替换 public/assets/wechat-qr-placeholder.svg，
+          并把「微信：待填入」写成真实微信号。不要放看起来能扫的假二维码。
+        */}
+        <div className="annual-cta">
+          <img className="annual-qr" src={`${BASE}assets/wechat-qr-placeholder.svg`} alt="微信二维码占位，待填入" />
+          <div>
+            <a className="btn btn-primary" href={ANNUAL_HREF}>
+              加微信开通年卡
+            </a>
+            <p className="muted">微信：待填入</p>
+            <p className="muted">加微信说明来意即可。不开通也不影响免费背词。</p>
+          </div>
+        </div>
+      </section>
+
       <p className="colophon">
         <Heart size={14} /> 做给每一个在背单词的人。
       </p>
