@@ -26,8 +26,10 @@ AMBIENT = {
     "voyage": "amb-voyage-0",
     "cafe": "amb-cafe-1",
 }
-# Splash: voice line (Jason Chen, eleven_v3, verified by speech-to-text) and door/burst effects.
-SPLASH = {"splash-voice": ("splash/voice-jason-0", -16), "splash-door": ("splash/door-0", -21), "splash-burst": ("splash/burst-2", -22)}
+# Door and burst only. public/sfx/splash-voice.mp3 is the 点亮八年级 line
+# 「欢迎来到点亮八年级」 and must not be replaced with the upstream take
+# （「欢迎打开雅思大门」, forge splash/voice-jason-0）.
+SPLASH = {"splash-door": ("splash/door-0", -21), "splash-burst": ("splash/burst-2", -22)}
 # Word galaxy: hover twinkle, camera flight, star ignition, two verified voice lines.
 GALAXY = {
     "twinkle": ("galaxy/twinkle-0", -24),

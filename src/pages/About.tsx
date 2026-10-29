@@ -1,7 +1,7 @@
-import { ArrowUpRight, Database, Github, Heart } from "lucide-react";
+import { ArrowUpRight, Github, Heart } from "lucide-react";
 import { useEffect } from "react";
 import { useAtlas } from "../atlas/context";
-import { REPO_URL } from "../config";
+import { MAIMEMO_URL, REPO_URL, UPSTREAM_URL } from "../config";
 import { useLocation } from "../lib/router";
 
 const BASE = import.meta.env.BASE_URL;
@@ -39,10 +39,10 @@ export function About() {
           <p className="lede">它免费、开源、无需注册。代码用 MIT，词库用 CC BY 4.0，谁都可以拿去用。</p>
           <div className="about-actions">
             <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
-              <Github size={18} /> 上游 Word Atlas
+              <Github size={18} /> 点亮八年级 GitHub
             </a>
-            <a className="btn btn-ghost" href={`${REPO_URL}/tree/main/data`} target="_blank" rel="noreferrer">
-              <Database size={18} /> 上游词库说明
+            <a className="btn btn-ghost" href={UPSTREAM_URL} target="_blank" rel="noreferrer">
+              基于 Word Atlas 改编 · MIT / CC BY
             </a>
           </div>
         </div>
@@ -110,9 +110,9 @@ export function About() {
         <section className="panel">
           <h3 className="eyebrow">内容从哪里来</h3>
           <p className="muted">
-            词表来自开源项目 maimemo-export（墨墨导出，MIT），中文释义参考 ECDICT /
-            墨墨翻译 CSV。发音由 edge-tts 合成（英音 Sonia，美音 Jenny）。前端与学习算法基于开源项目 Word
-            Atlas（MIT / 内容 CC BY 4.0）。本站不是外研社官方词表，也不承诺提分。
+            词表来自开源项目 <a href={MAIMEMO_URL} target="_blank" rel="noreferrer">maimemo-export</a>（墨墨导出，MIT），中文释义参考 ECDICT /
+            墨墨翻译 CSV。发音由 edge-tts 合成（英音 Sonia，美音 Jenny）。前端与学习算法改编自开源项目{" "}
+            <a href={UPSTREAM_URL} target="_blank" rel="noreferrer">Word Atlas</a>（MIT / 内容 CC BY 4.0）。本站不是外研社官方词表，也不承诺提分。
           </p>
           <p className="muted">当前版本暂无插画；词条会显示字母板占位。欢迎以后补图。</p>
         </section>
@@ -124,7 +124,7 @@ export function About() {
             里是网页用的分块数据和音频。拿去做 Anki 牌组或背词小程序，按许可证署名即可。
           </p>
           <a className="link" href={`${REPO_URL}#readme`} target="_blank" rel="noreferrer">
-            阅读上游文档 <ArrowUpRight size={14} />
+            阅读本仓库说明 <ArrowUpRight size={14} />
           </a>
         </section>
       </div>
@@ -133,7 +133,7 @@ export function About() {
         <h2 className="eyebrow" id="annual-title">
           平价年卡
         </h2>
-        <p className="annual-story">爸爸给儿子做的平价背词工具。</p>
+        <p className="annual-story">爸爸给女儿做的平价背词工具。</p>
         <p className="lede">
           现在的全部词表、英美发音和 FSRS 复习永远免费，不用登录也能学完。年卡只是可选的支持，不会打断背词。
         </p>
@@ -154,24 +154,25 @@ export function About() {
           <article className="annual-plan is-paid">
             <h3>年卡 ¥19.9 / 年</h3>
             <ul>
-              <li>优先补全一词一画插画</li>
-              <li>加微信一对一答疑（使用问题/背词方法）</li>
+              <li>优先补全词条插画（补上后全站都能看到，不是单独词包）</li>
+              <li>扫码后备注「年卡」，到账后微信确认开通</li>
+              <li>使用问题可微信留言（工作日回复）</li>
             </ul>
           </article>
         </div>
+        <p className="muted annual-note">开通后无单独账号；免费学习不受影响。</p>
         {/*
-          年卡由人工微信开通，没有账号，也没有支付 SDK。
-          换成真实物料时：替换 public/assets/wechat-qr-placeholder.svg，
-          并把「微信：待填入」写成真实微信号。不要放看起来能扫的假二维码。
+          人工开通，没有账号，也没有支付 SDK。步骤见 docs/annual-pass-ops.md。
+          收款码是 public/assets/wechat-qr.png。不要换成假二维码，也不要在页面上写微信号。
         */}
         <div className="annual-cta">
-          <img className="annual-qr" src={`${BASE}assets/wechat-qr-placeholder.svg`} alt="微信二维码占位，待填入" />
+          <img className="annual-qr" src={`${BASE}assets/wechat-qr.png`} alt="微信扫码开通年卡，¥19.9" />
           <div>
             <a className="btn btn-primary" href={ANNUAL_HREF}>
-              加微信开通年卡
+              扫码开通年卡
             </a>
-            <p className="muted">微信：待填入</p>
-            <p className="muted">加微信说明来意即可。不开通也不影响免费背词。</p>
+            <p className="muted">微信扫码开通年卡 · ¥19.9</p>
+            <p className="muted">扫码后备注「年卡」。不开通也不影响免费背词。</p>
           </div>
         </div>
       </section>

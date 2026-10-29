@@ -47,7 +47,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   const ctx = c.getContext("2d")!;
   await Promise.all([document.fonts.load(`600 120px ${SERIF}`), document.fonts.load(`italic 400 40px ${SERIF}`)]).catch(() => null);
 
-  ctx.fillStyle = "#F3ECDF";
+  ctx.fillStyle = "#F4F7F5";
   ctx.fillRect(0, 0, W, H);
   const pad = 72;
   const art = W - pad * 2;
@@ -55,7 +55,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   ctx.save();
   roundRect(ctx, pad, pad, art, art * 0.78, 36);
   ctx.clip();
-  ctx.fillStyle = "#EAE1D0";
+  ctx.fillStyle = "#E4EEE8";
   ctx.fillRect(pad, pad, art, art * 0.78);
   if (src) {
     try {
@@ -69,7 +69,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   ctx.restore();
 
   let y = pad + art * 0.78 + 120;
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#142821";
   ctx.font = `600 ${e.w.length > 12 ? 92 : 120}px ${SERIF}`;
   ctx.fillText(e.w, pad, y);
   y += 62;
@@ -78,19 +78,19 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   ctx.fillText([e.uk && `英 ${e.uk}`, e.us && e.us !== e.uk && `美 ${e.us}`].filter(Boolean).join("    "), pad, y);
   y += 72;
   ctx.font = `600 40px ${SANS}`;
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#142821";
   const s0 = e.senses[0];
-  ctx.fillStyle = "#C4573A";
+  ctx.fillStyle = "#0F766E";
   ctx.font = `italic 400 38px ${SERIF}`;
   ctx.fillText(s0.pos, pad, y);
   const posW = ctx.measureText(s0.pos + "  ").width;
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#142821";
   ctx.font = `600 40px ${SANS}`;
   ctx.fillText(e.senses.slice(0, 2).map((s) => s.zh).join("；"), pad + posW, y);
   y += 76;
   if (e.ex[0]) {
     ctx.font = `italic 400 36px ${SERIF}`;
-    ctx.fillStyle = "#3C4560";
+    ctx.fillStyle = "#3D524C";
     for (const line of wrap(ctx, `“${e.ex[0].en}”`, art).slice(0, 3)) {
       ctx.fillText(line, pad, y);
       y += 50;
@@ -104,7 +104,7 @@ export async function renderWordCard(atlas: Atlas, e: Entry) {
   }
   ctx.fillStyle = "rgba(30,38,64,.14)";
   ctx.fillRect(pad, H - 120, art, 2);
-  ctx.fillStyle = "#1E2640";
+  ctx.fillStyle = "#142821";
   ctx.font = `600 34px ${SERIF}`;
   ctx.fillText("点亮八年级 · 外研版", pad, H - 62);
   ctx.font = `400 26px ${SANS}`;
@@ -119,7 +119,7 @@ export async function shareWord(atlas: Atlas, e: Entry) {
     const canvas = await renderWordCard(atlas, e);
     const blob = await new Promise<Blob | null>((r) => canvas.toBlob(r, "image/png"));
     if (!blob) throw new Error("no blob");
-    const file = new File([blob], `word-atlas-${e.id}.png`, { type: "image/png" });
+    const file = new File([blob], `dianliang-${e.id}.png`, { type: "image/png" });
     if (navigator.canShare?.({ files: [file] })) {
       await navigator.share({ files: [file], title: e.w }).catch(() => null);
       return;

@@ -44,12 +44,12 @@ function card({ width, height, cols, rows, title, sub, chips, tile }) {
   return `<!doctype html><html><head><meta charset="utf-8"><style>${base}
   body{width:${width}px;height:${height}px;overflow:hidden;position:relative}
   .mosaic{position:absolute;inset:-40px -60px -40px 52%;grid-template-columns:repeat(${cols},${tile}px);grid-auto-rows:${tile}px;transform:rotate(-8deg);transform-origin:center}
-  .fade{position:absolute;inset:0;background:linear-gradient(90deg,#f3ecdf 46%,rgba(243,236,223,.0) 66%)}
+  .fade{position:absolute;inset:0;background:linear-gradient(90deg,#f4f7f5 46%,rgba(244,247,245,.0) 66%)}
   .copy{position:absolute;left:72px;top:0;bottom:0;width:52%;display:flex;flex-direction:column;justify-content:center;gap:22px}
   .brand{display:flex;align-items:center;gap:14px;font:600 30px F,serif}
   .brand small{font:600 22px "Songti SC",serif;color:#7c7f8c;letter-spacing:.12em}
   h1{font-weight:600;font-size:${Math.round(height * 0.105)}px;line-height:1.08;letter-spacing:-.02em}
-  h1 em{font-style:italic;color:#c4573a}
+  h1 em{font-style:italic;color:#0f766e}
   p.sub{font-size:${Math.round(height * 0.04)}px;color:#444d68;line-height:1.5}
   .chips{display:flex;flex-wrap:wrap;gap:10px}
   .chips span{padding:8px 16px;border-radius:999px;background:#fbf8f2;border:1px solid rgba(30,38,64,.14);font-size:${Math.round(height * 0.03)}px;font-weight:600;color:#444d68}
@@ -57,7 +57,7 @@ function card({ width, height, cols, rows, title, sub, chips, tile }) {
   <div class="mosaic">${words.map((w) => `<figure><img src="${thumb(w[0])}"><figcaption>${w[1]}</figcaption></figure>`).join("")}</div>
   <div class="fade"></div>
   <div class="copy">
-    <div class="brand"><svg width="40" height="40" viewBox="0 0 32 32"><circle cx="16" cy="16" r="14.5" fill="none" stroke="#1e2640" stroke-width="1.5"/><path d="M16 3.5 19 16 16 28.5 13 16Z" fill="#1e2640"/><path d="M16 3.5 19 16H13Z" fill="#c4573a"/><circle cx="16" cy="16" r="1.6" fill="#f3ecdf"/></svg>词光 <small>WORD ATLAS</small></div>
+    <div class="brand"><svg width="40" height="40" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#12352F"/><path d="M16 6.65 17.42 12.58 22.61 9.39 19.42 14.58 25.35 16 19.42 17.42 22.61 22.61 17.42 19.42 16 25.35 14.58 19.42 9.39 22.61 12.58 17.42 6.65 16 12.58 14.58 9.39 9.39 14.58 12.58Z" fill="#F3C15A"/><circle cx="16" cy="16" r="1.7" fill="#F4F7F5"/></svg>点亮八年级 <small>外研版</small></div>
     <h1 class="serif">${title}</h1>
     <p class="sub">${sub}</p>
     <div class="chips">${chips.map((c) => `<span>${c}</span>`).join("")}</div>
@@ -81,14 +81,14 @@ const shot = async (html, w, h, out, type = "jpeg") => {
   console.log("wrote", path.relative(root, out));
 };
 
-const title = `一词一画，<br><em>点亮雅思</em>。`;
-const sub = `${fmt(index.count)} 个雅思词，每个都有一幅画<br>${fmt(index.examples)} 条原创例句 · 英美发音 · 免费开源`;
+const title = `点亮八年级，<br><em>外研版词表</em>。`;
+const sub = `外研版八年级上下册<br>英美发音 · 间隔复习 · 免费开源`;
 await shot(card({ width: 1200, height: 630, cols: 6, rows: 7, tile: 150, title, sub, chips: ["无需注册", "手机可用", "CC BY 4.0 词库"] }), 1200, 630, path.join(root, "public/brand/og-card.jpg"));
 await shot(card({ width: 1600, height: 720, cols: 7, rows: 7, tile: 170, title, sub, chips: ["无需注册", "词汇星图", "JSON / CSV 下载"] }), 1600, 720, path.join(root, "docs/assets/banner.jpg"));
 
 // App icon (maskable: artwork kept inside the safe zone).
 await shot(
-  `<!doctype html><html><body style="margin:0;width:256px;height:256px;background:#1E2640;display:grid;place-items:center"><svg width="165" height="165" viewBox="0 0 32 32"><circle cx="16" cy="16" r="13" fill="none" stroke="#F3ECDF" stroke-width="1.2"/><circle cx="16" cy="16" r="9.5" fill="none" stroke="#F3ECDF" stroke-width=".6" stroke-dasharray="1 1.8" opacity=".5"/><path d="M16 4 18.8 16 16 28 13.2 16Z" fill="#F3ECDF"/><path d="M16 4 18.8 16H13.2Z" fill="#E07A5A"/><path d="M4 16 16 13.6 28 16 16 18.4Z" fill="#F3ECDF" opacity=".35"/><circle cx="16" cy="16" r="1.4" fill="#1E2640"/></svg></body></html>`,
+  `<!doctype html><html><body style="margin:0;width:256px;height:256px;background:#12352F;display:grid;place-items:center"><svg width="168" height="168" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#12352F"/><path d="M16 6.65 17.42 12.58 22.61 9.39 19.42 14.58 25.35 16 19.42 17.42 22.61 22.61 17.42 19.42 16 25.35 14.58 19.42 9.39 22.61 12.58 17.42 6.65 16 12.58 14.58 9.39 9.39 14.58 12.58Z" fill="#F3C15A"/><circle cx="16" cy="16" r="1.7" fill="#F4F7F5"/></svg></body></html>`,
   256,
   256,
   path.join(root, "public/icon-512.png"),

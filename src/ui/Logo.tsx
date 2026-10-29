@@ -1,14 +1,13 @@
+/** Eight-point spark for 点亮八年级. Not the upstream compass. */
+const SPARK =
+  "M16 6.65 L17.42 12.58 L22.61 9.39 L19.42 14.58 L25.35 16 L19.42 17.42 L22.61 22.61 L17.42 19.42 L16 25.35 L14.58 19.42 L9.39 22.61 L12.58 17.42 L6.65 16 L12.58 14.58 L9.39 9.39 L14.58 12.58 Z";
+
 export function Mark({ size = 28 }: { size?: number }) {
   return (
     <svg width={size} height={size} viewBox="0 0 32 32" aria-hidden="true" className="mark">
-      <circle cx="16" cy="16" r="14.5" fill="none" stroke="currentColor" strokeWidth="1.5" />
-      <circle cx="16" cy="16" r="10.5" fill="none" stroke="currentColor" strokeWidth="0.75" strokeDasharray="1.2 2.2" opacity=".55" />
-      <g className="mark-needle">
-        <path d="M16 3.5 19 16 16 28.5 13 16Z" fill="currentColor" opacity=".9" />
-        <path d="M16 3.5 19 16H13Z" fill="var(--terra)" />
-      </g>
-      <path d="M3.5 16 16 13.4 28.5 16 16 18.6Z" fill="currentColor" opacity=".35" />
-      <circle cx="16" cy="16" r="1.6" fill="var(--paper)" />
+      <rect x="1" y="1" width="30" height="30" rx="8" fill="currentColor" />
+      <path className="mark-spark" d={SPARK} fill="var(--ochre)" />
+      <circle cx="16" cy="16" r="1.7" fill="var(--paper)" />
     </svg>
   );
 }

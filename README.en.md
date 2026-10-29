@@ -1,3 +1,5 @@
+> **Upstream archive.** The live product in this repository is [点亮八年级 · 外研版](README.md) (https://wujie-0x.github.io/dianliang-grade8/), adapted from Word Atlas under MIT / CC BY 4.0. The English text below is the original Word Atlas README, kept for attribution. It does not describe this fork.
+
 <div align="center">
 
 <img src="docs/assets/banner.jpg" alt="Word Atlas: 7,298 IELTS words, each with its own illustration" width="100%">

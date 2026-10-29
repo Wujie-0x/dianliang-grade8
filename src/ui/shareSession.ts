@@ -25,7 +25,7 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
     c.height = H;
     const ctx = c.getContext("2d")!;
     await document.fonts.load(`600 96px ${SERIF}`).catch(() => null);
-    ctx.fillStyle = "#F3ECDF";
+    ctx.fillStyle = "#F4F7F5";
     ctx.fillRect(0, 0, W, H);
     const ids = [...new Set(s.steps.map((x) => x.id))].slice(0, 9);
     const refs = ids.map((id) => atlas.byId.get(id)!).filter(Boolean);
@@ -40,7 +40,7 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
       ctx.beginPath();
       ctx.roundRect(x, y, cell, cell, 24);
       ctx.clip();
-      ctx.fillStyle = "#EAE1D0";
+      ctx.fillStyle = "#E4EEE8";
       ctx.fillRect(x, y, cell, cell);
       const img = imgs[i];
       if (img) ctx.drawImage(img, x, y, cell, cell);
@@ -60,7 +60,7 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
     ctx.fillStyle = "#8A8C96";
     ctx.font = `500 28px ${SANS}`;
     ctx.fillText(`${d.getMonth() + 1}月${d.getDate()}日 · 今天点亮了 ${ids.length} 颗星`, pad, top - 24);
-    ctx.fillStyle = "#1E2640";
+    ctx.fillStyle = "#142821";
     ctx.font = `600 64px ${SERIF}`;
     ctx.fillText(`学了 ${ids.length} 个词，首次正确 ${st.accuracy}%`, pad, top + 52, W - pad * 2);
     const wrong = Object.values(s.graded).filter((g) => g === Rating.Again).length;
@@ -69,7 +69,7 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
     ctx.fillText(`新词 ${s.newIds.length} · 复习 ${s.reviewIds.length} · 需要再见面 ${wrong}`, pad, top + 112);
     ctx.fillStyle = "rgba(30,38,64,.14)";
     ctx.fillRect(pad, H - 116, W - pad * 2, 2);
-    ctx.fillStyle = "#1E2640";
+    ctx.fillStyle = "#142821";
     ctx.font = `600 34px ${SERIF}`;
     ctx.fillText("点亮八年级 · 外研版", pad, H - 58);
     ctx.font = `400 26px ${SANS}`;
@@ -78,7 +78,7 @@ export async function shareSession(atlas: Atlas, s: ActiveSession) {
     ctx.fillText(tag, W - pad - ctx.measureText(tag).width, H - 60);
     const blob = await new Promise<Blob | null>((r) => c.toBlob(r, "image/png"));
     if (!blob) throw new Error();
-    const file = new File([blob], `word-atlas-${d.toISOString().slice(0, 10)}.png`, { type: "image/png" });
+    const file = new File([blob], `dianliang-${d.toISOString().slice(0, 10)}.png`, { type: "image/png" });
     if (navigator.canShare?.({ files: [file] })) {
       await navigator.share({ files: [file] }).catch(() => null);
       return;
