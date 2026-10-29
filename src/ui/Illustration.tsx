@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const HUES = ["#C4573A", "#7F9B77", "#D9A03A", "#5F7FA3", "#A86B8C", "#4E7C76"];
+const HUES = ["#0F766E", "#7F9B77", "#D9A03A", "#3E8F86", "#C4863A", "#1F6F68"];
 
 /** Square illustration with a typographic plate as an intentional fallback. */
 export function Illustration({

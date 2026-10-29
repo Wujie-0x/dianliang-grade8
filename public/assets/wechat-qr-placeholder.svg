@@ -2,7 +2,7 @@
   <title id="t">微信二维码占位</title>
   <desc id="d">待填入真实微信二维码。这不是可扫描的码。</desc>
   <!-- Replace this file with the real WeChat QR. Do not draw a fake QR that looks scannable. -->
-  <rect width="180" height="180" rx="18" fill="#F6F1E7" stroke="#1A2035" stroke-width="2" stroke-dasharray="7 5"/>
-  <text x="90" y="78" text-anchor="middle" font-family="PingFang SC, Noto Sans SC, sans-serif" font-size="16" fill="#1A2035">微信二维码</text>
-  <text x="90" y="106" text-anchor="middle" font-family="PingFang SC, Noto Sans SC, sans-serif" font-size="18" font-weight="700" fill="#C4573A">待填入</text>
+  <rect width="180" height="180" rx="18" fill="#F4F7F5" stroke="#142821" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="90" y="78" text-anchor="middle" font-family="PingFang SC, Noto Sans SC, sans-serif" font-size="16" fill="#142821">微信二维码</text>
+  <text x="90" y="106" text-anchor="middle" font-family="PingFang SC, Noto Sans SC, sans-serif" font-size="18" font-weight="700" fill="#0F766E">待填入</text>
 </svg>

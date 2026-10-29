@@ -4,8 +4,8 @@
   "description": "外研版八年级背词工具。词表、发音和 FSRS 复习免费，年卡可选。",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#F3ECDF",
-  "theme_color": "#F3ECDF",
+  "background_color": "#F4F7F5",
+  "theme_color": "#102622",
   "icons": [
     { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }

@@ -1,32 +1,32 @@
-/* Word Atlas — design system
-   Paper, ink and four field-guide pigments, matched to the illustration palette. */
+/* 点亮八年级 — pine paper, lantern gold, teal accent.
+   Layout follows the upstream study UI; the mark and pigments are this fork's. */
 
 :root {
-  /* Light: bright ivory paper lit from above; gold is the colour of "light". */
-  --paper: #f6f1e7;
-  --paper-2: #eee7d9;
-  --paper-3: #e4dac8;
-  --card: #fffdf8;
-  --card-2: #faf5ec;
-  --ink: #1a2035;
-  --ink-2: #434b65;
-  --ink-3: #7a7d8a;
-  --ink-4: #aba79f;
-  --line: rgba(26, 32, 53, 0.1);
-  --line-strong: rgba(26, 32, 53, 0.15);
-  --terra: #c4573a;
-  --terra-ink: #a8432a;
-  --terra-soft: #f5ddd1;
-  --ochre: #cb922c;
-  --ochre-soft: #f7e7c4;
+  /* Light: cool mist paper. Gold is a lit star; teal is the accent. */
+  --paper: #f4f7f5;
+  --paper-2: #e7eeea;
+  --paper-3: #d5e2dc;
+  --card: #fbfefc;
+  --card-2: #f3f8f5;
+  --ink: #142821;
+  --ink-2: #3d524c;
+  --ink-3: #6d7f78;
+  --ink-4: #a3b0aa;
+  --line: rgba(20, 40, 33, 0.1);
+  --line-strong: rgba(20, 40, 33, 0.16);
+  --terra: #0f766e;
+  --terra-ink: #0c5e58;
+  --terra-soft: #d5efe9;
+  --ochre: #c8962e;
+  --ochre-soft: #f8ecd0;
   --sage: #6a8c63;
   --sage-ink: #4b6b45;
   --sage-soft: #dfe9d8;
   --sky: #5f88a8;
   --sky-soft: #dde8f0;
   --plum: #9a6283;
-  --glow: rgba(255, 200, 110, 0.26);
-  --mark: rgba(211, 154, 47, 0.32);
+  --glow: rgba(15, 118, 110, 0.16);
+  --mark: rgba(200, 150, 46, 0.32);
   --shadow-sm: 0 1px 2px rgba(30, 38, 64, 0.06), 0 2px 6px -2px rgba(30, 38, 64, 0.06);
   --shadow: 0 1px 0 rgba(255, 255, 255, 0.7) inset, 0 1px 2px rgba(30, 38, 64, 0.05), 0 18px 40px -24px rgba(30, 38, 64, 0.28);
   --shadow-lg: 0 30px 80px -30px rgba(20, 26, 46, 0.45), 0 8px 24px -12px rgba(20, 26, 46, 0.2);
@@ -47,29 +47,29 @@
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #0d1120;
-    --paper-2: #151b2d;
-    --paper-3: #1e263b;
-    --card: #131a2b;
-    --card-2: #19213a;
-    --ink: #f2ebdd;
-    --ink-2: #c8c1b3;
-    --ink-3: #8d8c94;
-    --ink-4: #5f6372;
-    --line: rgba(242, 235, 221, 0.08);
-    --line-strong: rgba(242, 235, 221, 0.14);
-    --terra: #e57c5a;
-    --terra-ink: #f29a7b;
-    --terra-soft: rgba(229, 124, 90, 0.16);
-    --ochre: #e8b65a;
-    --ochre-soft: rgba(232, 182, 90, 0.15);
+    --paper: #0c1614;
+    --paper-2: #13211e;
+    --paper-3: #1c2e29;
+    --card: #12201c;
+    --card-2: #182924;
+    --ink: #eef6f2;
+    --ink-2: #c5d4cc;
+    --ink-3: #8ea099;
+    --ink-4: #5d6e68;
+    --line: rgba(238, 246, 242, 0.08);
+    --line-strong: rgba(238, 246, 242, 0.14);
+    --terra: #2dd4bf;
+    --terra-ink: #5eead4;
+    --terra-soft: rgba(45, 212, 191, 0.16);
+    --ochre: #f0c14d;
+    --ochre-soft: rgba(240, 193, 77, 0.16);
     --sage: #97b88e;
     --sage-ink: #b5d1ac;
     --sage-soft: rgba(151, 184, 142, 0.15);
     --sky: #8fb2cc;
     --sky-soft: rgba(143, 178, 204, 0.15);
-    --glow: rgba(232, 182, 90, 0.14);
-    --mark: rgba(232, 182, 90, 0.28);
+    --glow: rgba(45, 212, 191, 0.12);
+    --mark: rgba(240, 193, 77, 0.28);
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
     --shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 20px 40px -24px rgba(0, 0, 0, 0.7);
     --shadow-lg: 0 30px 80px -20px rgba(0, 0, 0, 0.75);
@@ -77,29 +77,29 @@
   }
 }
 :root[data-theme="dark"] {
-  --paper: #0d1120;
-  --paper-2: #151b2d;
-  --paper-3: #1e263b;
-  --card: #131a2b;
-  --card-2: #19213a;
-  --ink: #f2ebdd;
-  --ink-2: #c8c1b3;
-  --ink-3: #8d8c94;
-  --ink-4: #5f6372;
-  --line: rgba(242, 235, 221, 0.08);
-  --line-strong: rgba(242, 235, 221, 0.14);
-  --terra: #e57c5a;
-  --terra-ink: #f29a7b;
-  --terra-soft: rgba(229, 124, 90, 0.16);
-  --ochre: #e8b65a;
-  --ochre-soft: rgba(232, 182, 90, 0.15);
+  --paper: #0c1614;
+  --paper-2: #13211e;
+  --paper-3: #1c2e29;
+  --card: #12201c;
+  --card-2: #182924;
+  --ink: #eef6f2;
+  --ink-2: #c5d4cc;
+  --ink-3: #8ea099;
+  --ink-4: #5d6e68;
+  --line: rgba(238, 246, 242, 0.08);
+  --line-strong: rgba(238, 246, 242, 0.14);
+  --terra: #2dd4bf;
+  --terra-ink: #5eead4;
+  --terra-soft: rgba(45, 212, 191, 0.16);
+  --ochre: #f0c14d;
+  --ochre-soft: rgba(240, 193, 77, 0.16);
   --sage: #97b88e;
   --sage-ink: #b5d1ac;
   --sage-soft: rgba(151, 184, 142, 0.15);
   --sky: #8fb2cc;
   --sky-soft: rgba(143, 178, 204, 0.15);
-  --glow: rgba(232, 182, 90, 0.14);
-  --mark: rgba(232, 182, 90, 0.28);
+  --glow: rgba(45, 212, 191, 0.12);
+  --mark: rgba(240, 193, 77, 0.28);
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
   --shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 20px 40px -24px rgba(0, 0, 0, 0.7);
   --shadow-lg: 0 30px 80px -20px rgba(0, 0, 0, 0.75);
@@ -250,6 +250,11 @@ code {
   font-size: 13.5px;
   line-height: 1.65;
 }
+.muted a {
+  color: var(--terra-ink);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
 .warn-text {
   color: var(--terra-ink);
   font-size: 14px;
@@ -320,7 +325,7 @@ code {
 .btn-terra {
   background: var(--terra);
   color: #fff;
-  box-shadow: 0 10px 24px -12px rgba(196, 87, 58, 0.8);
+  box-shadow: 0 10px 24px -12px rgba(15, 118, 110, 0.75);
 }
 .btn-sage {
   background: var(--sage-ink);
@@ -1446,7 +1451,7 @@ code {
   display: flex;
   align-items: flex-end;
   color: #fff;
-  background: #2a3550;
+  background: #16332f;
   box-shadow: var(--shadow-lg);
   isolation: isolate;
 }
@@ -1471,7 +1476,7 @@ code {
   inset: 0;
   z-index: -1;
   background:
-    linear-gradient(180deg, rgba(18, 24, 42, 0) 20%, rgba(18, 24, 42, 0.55) 55%, rgba(18, 24, 42, 0.86) 100%);
+    linear-gradient(180deg, rgba(16, 38, 34, 0) 20%, rgba(16, 38, 34, 0.55) 55%, rgba(16, 38, 34, 0.88) 100%);
 }
 .journey-body {
   width: 100%;
@@ -1481,7 +1486,7 @@ code {
   .journey {
     display: block;
     min-height: 0;
-    background: #1c2440;
+    background: #102622;
   }
   .journey-art {
     position: relative;
@@ -1493,7 +1498,7 @@ code {
   .journey::before {
     inset: auto 0 0;
     top: 0;
-    background: linear-gradient(180deg, transparent 0, transparent calc(62.5vw - 140px), #1c2440 calc(62.5vw - 30px));
+    background: linear-gradient(180deg, transparent 0, transparent calc(62.5vw - 140px), #102622 calc(62.5vw - 30px));
   }
   .journey-body {
     margin-top: -64px;
@@ -3498,7 +3503,7 @@ code {
   color: var(--ink-3);
   margin-bottom: 4px;
 }
-.ex-tag.is-ielts {
+.ex-tag.is-extra {
   color: var(--terra-ink);
 }
 .specimen {
@@ -3516,23 +3521,23 @@ code {
   height: 1px;
   background: var(--line-strong);
 }
-.mark-needle {
+.mark-spark {
   transform-origin: 16px 16px;
-  transition: transform 0.9s var(--spring);
+  transition: transform 0.6s var(--spring);
 }
-a:hover .mark-needle,
-.boot .mark-needle {
-  transform: rotate(35deg);
+a:hover .mark-spark,
+.boot .mark-spark {
+  transform: scale(1.12);
 }
-.boot .mark-needle {
-  animation: seek 2.4s var(--ease) infinite alternate;
+.boot .mark-spark {
+  animation: spark 1.8s var(--ease) infinite alternate;
 }
-@keyframes seek {
+@keyframes spark {
   from {
-    transform: rotate(-25deg);
+    transform: scale(0.9);
   }
   to {
-    transform: rotate(30deg);
+    transform: scale(1.08);
   }
 }
 
@@ -3679,7 +3684,7 @@ a:hover .mark-needle,
   }
 }
 
-/* ---------- splash: the door to the atlas ---------- */
+/* ---------- splash ---------- */
 
 .splash {
   position: fixed;
@@ -3688,7 +3693,7 @@ a:hover .mark-needle,
   cursor: pointer;
   perspective: 1400px;
   overflow: hidden;
-  color: #f3ecdf;
+  color: #e7f4ee;
   -webkit-tap-highlight-color: transparent;
 }
 .door {
@@ -3697,7 +3702,7 @@ a:hover .mark-needle,
   bottom: 0;
   width: 50.5%;
   background:
-    radial-gradient(120% 80% at var(--gx) 45%, #232c48 0%, #151b2e 55%, #0c1020 100%);
+    radial-gradient(120% 80% at var(--gx) 45%, #1c3f38 0%, #102622 55%, #071412 100%);
   transition: transform 1.5s cubic-bezier(0.65, 0, 0.35, 1), filter 1.5s;
   backface-visibility: hidden;
 }

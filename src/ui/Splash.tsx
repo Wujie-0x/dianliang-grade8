@@ -4,11 +4,11 @@ import { dayKey, store } from "../store/store";
 
 const SEEN_KEY = "word-atlas:splash";
 const PALETTE: [string, number][] = [
-  ["243,236,223", 0.58],
-  ["230,180,87", 0.16],
-  ["229,124,90", 0.12],
-  ["151,184,142", 0.08],
-  ["143,178,204", 0.06],
+  ["231,244,238", 0.5],
+  ["243,193,90", 0.2],
+  ["45,180,166", 0.16],
+  ["20,80,72", 0.08],
+  ["186,214,204", 0.06],
 ];
 
 export function shouldShowSplash() {
@@ -53,22 +53,27 @@ function targets(w: number, h: number, count: number) {
   const cy = top + R;
   g.fillStyle = g.strokeStyle = "#fff";
   g.lineWidth = Math.max(2, s * 0.006);
+  const bw = R * 2.2;
+  const bx = cx - bw / 2;
+  const by = cy - bw / 2;
   g.beginPath();
-  g.arc(cx, cy, R, 0, Math.PI * 2);
+  g.roundRect(bx, by, bw, bw, bw * 0.22);
   g.stroke();
   g.beginPath();
-  g.moveTo(cx, cy - R * 0.9);
-  g.lineTo(cx + R * 0.3, cy);
-  g.lineTo(cx, cy + R * 0.9);
-  g.lineTo(cx - R * 0.3, cy);
+  const outer = R * 0.72;
+  const inner = R * 0.3;
+  for (let i = 0; i < 16; i++) {
+    const ang = -Math.PI / 2 + (i * Math.PI) / 8;
+    const rad = i % 2 === 0 ? outer : inner;
+    const x = cx + Math.cos(ang) * rad;
+    const y = cy + Math.sin(ang) * rad;
+    if (i === 0) g.moveTo(x, y);
+    else g.lineTo(x, y);
+  }
   g.closePath();
   g.fill();
   g.beginPath();
-  g.moveTo(cx - R * 0.62, cy);
-  g.lineTo(cx, cy - R * 0.1);
-  g.lineTo(cx + R * 0.62, cy);
-  g.lineTo(cx, cy + R * 0.1);
-  g.closePath();
+  g.arc(cx, cy, R * 0.12, 0, Math.PI * 2);
   g.fill();
   const name = "点亮八年级";
   let zh = Math.min(w * 0.16, s * 0.13);
@@ -84,7 +89,7 @@ function targets(w: number, h: number, count: number) {
   const en = Math.max(18, zh * 0.24);
   g.font = `700 ${en}px "Fraunces Variable", Georgia, serif`;
   g.letterSpacing = `${en * 0.34}px`;
-  g.fillText("GRADE 8", cx, cy + R + zh * 1.52);
+  g.fillText("外研版", cx, cy + R + zh * 1.52);
   const data = g.getImageData(0, 0, w, h).data;
   // Take every lit pixel, then a random subset: no visible sampling grid.
   const all: [number, number][] = [];
@@ -251,7 +256,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
       {reduce && (
         <div className="splash-static">
           <b>点亮八年级</b>
-          <small>GRADE 8</small>
+          <small>外研版</small>
         </div>
       )}
       <div className="splash-copy">
