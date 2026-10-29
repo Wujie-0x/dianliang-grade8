@@ -248,6 +248,8 @@ def write_atlas(entries: list[dict]) -> dict:
     # refresh media flags from disk
     for c in entries:
         m = 0
+        if (PUB / "img" / f"{c['id']}.webp").exists():
+            m |= 1
         if (PUB / "audio" / "uk" / f"{c['id']}.mp3").exists():
             m |= 2
         if (PUB / "audio" / "us" / f"{c['id']}.mp3").exists():
