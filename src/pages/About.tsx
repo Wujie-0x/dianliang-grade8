@@ -133,7 +133,7 @@ export function About() {
         <h2 className="eyebrow" id="annual-title">
           平价年卡
         </h2>
-        <p className="annual-story">爸爸给儿子做的平价背词工具。</p>
+        <p className="annual-story">爸爸给女儿做的平价背词工具。</p>
         <p className="lede">
           现在的全部词表、英美发音和 FSRS 复习永远免费，不用登录也能学完。年卡只是可选的支持，不会打断背词。
         </p>
