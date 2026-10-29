@@ -1,1 +1,13 @@
-{"name":"词光 Word Atlas","short_name":"词光","description":"一词一画，点亮雅思","start_url":"./","display":"standalone","background_color":"#F3ECDF","theme_color":"#F3ECDF","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "点亮八年级",
+  "short_name": "点亮八年级",
+  "description": "外研版八年级背词工具。词表、发音和 FSRS 复习免费，年卡可选。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3ECDF",
+  "theme_color": "#F3ECDF",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
