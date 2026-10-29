@@ -3324,14 +3324,14 @@ code {
 }
 .annual-cta {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 16px;
   flex-wrap: wrap;
   margin-top: 20px;
 }
 .annual-qr {
-  width: 132px;
-  height: 132px;
+  width: min(240px, 100%);
+  height: auto;
   border-radius: 16px;
   background: var(--paper);
   flex: none;

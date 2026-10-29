@@ -160,18 +160,18 @@ export function About() {
           </article>
         </div>
         {/*
-          年卡由人工微信开通，没有账号，也没有支付 SDK。
-          换成真实物料时：替换 public/assets/wechat-qr-placeholder.svg，
-          并把「微信：待填入」写成真实微信号。不要放看起来能扫的假二维码。
+          年卡由微信扫码开通，没有账号，也没有支付 SDK。
+          收款码是 public/assets/wechat-qr.png（中心为项目头像，昵称已涂白）。
+          不要换成假二维码，也不要在页面上写微信号。
         */}
         <div className="annual-cta">
-          <img className="annual-qr" src={`${BASE}assets/wechat-qr-placeholder.svg`} alt="微信二维码占位，待填入" />
+          <img className="annual-qr" src={`${BASE}assets/wechat-qr.png`} alt="微信扫码开通年卡，¥19.9" />
           <div>
             <a className="btn btn-primary" href={ANNUAL_HREF}>
               加微信开通年卡
             </a>
-            <p className="muted">微信：待填入</p>
-            <p className="muted">加微信说明来意即可。不开通也不影响免费背词。</p>
+            <p className="muted">微信扫码开通年卡 · ¥19.9</p>
+            <p className="muted">扫码即可。不开通也不影响免费背词。</p>
           </div>
         </div>
       </section>
