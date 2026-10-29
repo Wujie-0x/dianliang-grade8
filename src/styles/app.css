@@ -3259,6 +3259,101 @@ code {
 .about .panel p + p {
   margin-top: 10px;
 }
+.annual {
+  margin-top: 20px;
+  scroll-margin-top: calc(var(--top) + 12px);
+}
+.annual-story {
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(1.35rem, 2vw, 1.7rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+.annual .lede {
+  margin-top: 10px;
+}
+.annual-price {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-top: 18px;
+}
+.annual-price b {
+  font-family: var(--serif);
+  font-size: 2.6rem;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+.annual-price span {
+  color: var(--ink-3);
+  font-size: 15px;
+}
+.annual-plans {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+}
+.annual-plan {
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--paper);
+  padding: 16px 18px;
+}
+.annual-plan h3 {
+  margin: 0 0 8px;
+  font-size: 15px;
+}
+.annual-plan ul {
+  margin: 0;
+  padding-left: 1.15em;
+  display: grid;
+  gap: 6px;
+  color: var(--ink-2);
+}
+.annual-plan.is-paid {
+  background: var(--ochre-soft);
+  border-color: color-mix(in oklab, var(--ochre) 42%, var(--line));
+}
+.annual-cta {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.annual-qr {
+  width: 132px;
+  height: 132px;
+  border-radius: 16px;
+  background: var(--paper);
+  flex: none;
+}
+.annual-cta .muted {
+  margin-top: 8px;
+}
+@media (min-width: 720px) {
+  .annual-plans {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.me-annual {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.me-annual .eyebrow {
+  margin-bottom: 8px;
+}
+.me-annual p {
+  color: var(--ink-2);
+  max-width: 46ch;
+}
 .colophon {
   margin-top: 36px;
   display: flex;
@@ -3762,7 +3857,7 @@ a:hover .mark-needle,
   place-content: center;
   justify-items: center;
   gap: 8px;
-  font: 700 72px "Songti SC", serif;
+  font: 700 clamp(28px, 9vw, 64px) "Songti SC", "STSong", "Noto Serif SC", serif;
   transition: opacity 0.4s;
 }
 .splash-static small {
