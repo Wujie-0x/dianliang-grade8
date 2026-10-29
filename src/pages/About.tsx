@@ -154,24 +154,25 @@ export function About() {
           <article className="annual-plan is-paid">
             <h3>年卡 ¥19.9 / 年</h3>
             <ul>
-              <li>优先补全词条插画</li>
-              <li>加微信一对一答疑（使用问题/背词方法）</li>
+              <li>优先补全词条插画（补上后全站都能看到，不是单独词包）</li>
+              <li>扫码后备注「年卡」，到账后微信确认开通</li>
+              <li>使用问题可微信留言（工作日回复）</li>
             </ul>
           </article>
         </div>
+        <p className="muted annual-note">开通后无单独账号；免费学习不受影响。</p>
         {/*
-          年卡由微信扫码开通，没有账号，也没有支付 SDK。
-          收款码是 public/assets/wechat-qr.png（中心为项目头像，昵称已涂白）。
-          不要换成假二维码，也不要在页面上写微信号。
+          人工开通，没有账号，也没有支付 SDK。步骤见 docs/annual-pass-ops.md。
+          收款码是 public/assets/wechat-qr.png。不要换成假二维码，也不要在页面上写微信号。
         */}
         <div className="annual-cta">
           <img className="annual-qr" src={`${BASE}assets/wechat-qr.png`} alt="微信扫码开通年卡，¥19.9" />
           <div>
             <a className="btn btn-primary" href={ANNUAL_HREF}>
-              加微信开通年卡
+              扫码开通年卡
             </a>
             <p className="muted">微信扫码开通年卡 · ¥19.9</p>
-            <p className="muted">扫码即可。不开通也不影响免费背词。</p>
+            <p className="muted">扫码后备注「年卡」。不开通也不影响免费背词。</p>
           </div>
         </div>
       </section>

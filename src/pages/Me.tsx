@@ -213,7 +213,7 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
           <p>爸爸给女儿做的平价背词工具。免费够用；年卡 ¥19.9 / 年，可选。</p>
         </div>
         <a className="btn btn-primary" href={ANNUAL_HREF}>
-          加微信开通年卡
+          扫码开通年卡
         </a>
       </section>
     </div>

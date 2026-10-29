@@ -3322,6 +3322,9 @@ code {
   background: var(--ochre-soft);
   border-color: color-mix(in oklab, var(--ochre) 42%, var(--line));
 }
+.annual-note {
+  margin-top: 14px;
+}
 .annual-cta {
   display: flex;
   align-items: flex-start;
