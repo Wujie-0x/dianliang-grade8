@@ -68,7 +68,7 @@ def allowed(rel: Path) -> bool:
             if len(sub) == 2 and sub[0] == "entries":
                 return re.fullmatch(r"\d+\.json", sub[1]) is not None
             if len(sub) == 2 and sub[0] in {"img", "thumb"}:
-                return rel.suffix == ".webp"
+                return rel.suffix in {".webp", ".jpg"}
             if len(sub) == 3 and sub[0] == "audio" and sub[1] in {"uk", "us", "ex", "ex2"}:
                 return rel.suffix == ".mp3"
     return False

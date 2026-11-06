@@ -15,7 +15,7 @@ const app = appArg > 0 ? process.argv[appArg + 1] : null;
 const index = JSON.parse(fs.readFileSync(path.join(root, "public/atlas/index.json"), "utf8"));
 const font = pathToFileURL(path.join(root, "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-opsz-normal.woff2")).href;
 const fontItalic = pathToFileURL(path.join(root, "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-opsz-italic.woff2")).href;
-const thumb = (id) => pathToFileURL(path.join(root, "public/atlas/thumb", `${id}.webp`)).href;
+const thumb = (id) => pathToFileURL(path.join(root, "public/atlas/thumb", `${id}.jpg`)).href;
 
 // Illustrated words, spread across levels and topics, deterministic.
 const illustrated = index.words.filter((w) => w[6] & 1);

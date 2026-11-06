@@ -21,8 +21,8 @@ index.words.forEach((r, i) => {
   if (!(cefr >= 0 && cefr < index.cefr.length)) fail(`bad level: ${id}`);
   if (!(topic >= 0 && topic < index.topics.length)) fail(`bad topic: ${id}`);
   const need = [
-    [1, `img/${id}.webp`],
-    [1, `thumb/${id}.webp`],
+    [1, `img/${id}.jpg`],
+    [1, `thumb/${id}.jpg`],
     [2, `audio/uk/${id}.mp3`],
     [4, `audio/us/${id}.mp3`],
     [8, `audio/ex/${id}.mp3`],
