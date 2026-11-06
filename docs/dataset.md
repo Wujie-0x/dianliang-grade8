@@ -27,7 +27,7 @@
 
 - `index.json`：紧凑索引，`words` 中每行为 `[id, word, zh, ipa, cefrIndex, topicIndex, media]`。`media` 是位标记：`1` 插画、`2` 英音、`4` 美音、`8` 例句朗读。
 - `entries/<n>.json`：完整词条，每块 100 条，第 `n` 块对应索引中第 `n*100` 到 `n*100+99` 行。
-- `img/<id>.webp`（512px）、`thumb/<id>.webp`（256px）。
+- `img/<id>.jpg`、`thumb/<id>.jpg`：同一张插画的 JPEG（词卡用 `img/`，列表用 `thumb/`）。
 - `audio/uk/<id>.mp3`、`audio/us/<id>.mp3`、`audio/ex/<id>.mp3`（`ex[0]` 的朗读）。
 
 媒体覆盖情况以 `index.json` 的位标记为准，不要假设每个词都有全部文件。
